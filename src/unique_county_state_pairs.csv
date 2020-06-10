@@ -1,0 +1,3026 @@
+,county,state,count
+0,Abbeville,South Carolina,78
+1,Acadia,Louisiana,75
+2,Accomack,Virginia,77
+3,Ada,Idaho,84
+4,Adair,Iowa,80
+5,Adair,Kentucky,61
+6,Adair,Missouri,74
+7,Adair,Oklahoma,72
+8,Adams,Colorado,85
+9,Adams,Idaho,66
+10,Adams,Illinois,77
+11,Adams,Indiana,87
+12,Adams,Iowa,19
+13,Adams,Mississippi,77
+14,Adams,Nebraska,79
+15,Adams,Ohio,62
+16,Adams,Pennsylvania,79
+17,Adams,Washington,74
+18,Adams,Wisconsin,64
+19,Addison,Vermont,77
+20,Aiken,South Carolina,77
+21,Aitkin,Minnesota,49
+22,Alachua,Florida,87
+23,Alamance,North Carolina,74
+24,Alameda,California,96
+25,Alamosa,Colorado,70
+26,Albany,New York,85
+27,Albany,Wyoming,72
+28,Albemarle,Virginia,76
+29,Alcona,Michigan,51
+30,Alcorn,Mississippi,67
+31,Aleutians West Census Area,Alaska,1
+32,Alexander,Illinois,50
+33,Alexander,North Carolina,67
+34,Alexandria city,Virginia,85
+35,Alfalfa,Oklahoma,53
+36,Allamakee,Iowa,82
+37,Allegan,Michigan,76
+38,Allegany,Maryland,64
+39,Allegany,New York,81
+40,Alleghany,North Carolina,68
+41,Alleghany,Virginia,68
+42,Allegheny,Pennsylvania,83
+43,Allen,Indiana,77
+44,Allen,Kentucky,75
+45,Allen,Louisiana,74
+46,Allen,Ohio,69
+47,Allendale,South Carolina,65
+48,Alpena,Michigan,55
+49,Alpine,California,67
+50,Amador,California,77
+51,Amelia,Virginia,71
+52,Amherst,Virginia,75
+53,Amite,Mississippi,69
+54,Anchorage,Alaska,85
+55,Anderson,Kansas,27
+56,Anderson,Kentucky,76
+57,Anderson,South Carolina,82
+58,Anderson,Tennessee,77
+59,Anderson,Texas,65
+60,Andrew,Missouri,55
+61,Andrews,Texas,62
+62,Androscoggin,Maine,85
+63,Angelina,Texas,71
+64,Anne Arundel,Maryland,84
+65,Anoka,Minnesota,87
+66,Anson,North Carolina,66
+67,Antelope,Nebraska,67
+68,Antrim,Michigan,67
+69,Apache,Arizona,76
+70,Appanoose,Iowa,71
+71,Appling,Georgia,67
+72,Appomattox,Virginia,60
+73,Aransas,Texas,61
+74,Arapahoe,Colorado,88
+75,Archer,Texas,21
+76,Archuleta,Colorado,67
+77,Arenac,Michigan,66
+78,Arkansas,Arkansas,68
+79,Arlington,Virginia,86
+80,Armstrong,Pennsylvania,73
+81,Armstrong,Texas,52
+82,Aroostook,Maine,63
+83,Ascension,Louisiana,81
+84,Ashe,North Carolina,62
+85,Ashland,Ohio,79
+86,Ashland,Wisconsin,66
+87,Ashley,Arkansas,68
+88,Ashtabula,Ohio,77
+89,Asotin,Washington,63
+90,Assumption,Louisiana,78
+91,Atascosa,Texas,72
+92,Atchison,Kansas,67
+93,Atchison,Missouri,70
+94,Athens,Ohio,71
+95,Atkinson,Georgia,60
+96,Atlantic,New Jersey,79
+97,Atoka,Oklahoma,64
+98,Attala,Mississippi,76
+99,Audrain,Missouri,47
+100,Audubon,Iowa,67
+101,Auglaize,Ohio,69
+102,Augusta,Virginia,65
+103,Aurora,South Dakota,70
+104,Austin,Texas,72
+105,Autauga,Alabama,73
+106,Avery,North Carolina,17
+107,Avoyelles,Louisiana,76
+108,Baca,Colorado,69
+109,Bacon,Georgia,68
+110,Bailey,Texas,31
+111,Baker,Florida,82
+112,Baker,Georgia,73
+113,Baker,Oregon,30
+114,Baldwin,Alabama,83
+115,Baldwin,Georgia,76
+116,Ballard,Kentucky,58
+117,Baltimore,Maryland,86
+118,Baltimore city,Maryland,82
+119,Bamberg,South Carolina,66
+120,Bandera,Texas,57
+121,Banks,Georgia,67
+122,Bannock,Idaho,73
+123,Baraga,Michigan,50
+124,Barber,Kansas,59
+125,Barbour,Alabama,63
+126,Barbour,West Virginia,65
+127,Barnes,North Dakota,69
+128,Barnstable,Massachusetts,83
+129,Barnwell,South Carolina,67
+130,Barren,Kentucky,66
+131,Barron,Wisconsin,63
+132,Barrow,Georgia,75
+133,Barry,Michigan,76
+134,Barry,Missouri,70
+135,Bartholomew,Indiana,81
+136,Barton,Kansas,66
+137,Bartow,Georgia,86
+138,Bastrop,Texas,76
+139,Bates,Missouri,76
+140,Bath,Kentucky,64
+141,Baxter,Arkansas,70
+142,Bay,Florida,76
+143,Bay,Michigan,84
+144,Bayfield,Wisconsin,78
+145,Beadle,South Dakota,87
+146,Beaufort,North Carolina,71
+147,Beaufort,South Carolina,83
+148,Beauregard,Louisiana,76
+149,Beaver,Oklahoma,59
+150,Beaver,Pennsylvania,80
+151,Beaverhead,Montana,62
+152,Becker,Minnesota,55
+153,Beckham,Oklahoma,67
+154,Bedford,Pennsylvania,66
+155,Bedford,Tennessee,72
+156,Bedford,Virginia,75
+157,Bee,Texas,58
+158,Belknap,New Hampshire,79
+159,Bell,Kentucky,18
+160,Bell,Texas,84
+161,Belmont,Ohio,83
+162,Beltrami,Minnesota,70
+163,Ben Hill,Georgia,73
+164,Benewah,Idaho,11
+165,Bennington,Vermont,90
+166,Benson,North Dakota,29
+167,Bent,Colorado,26
+168,Benton,Arkansas,78
+169,Benton,Indiana,54
+170,Benton,Iowa,72
+171,Benton,Minnesota,81
+172,Benton,Mississippi,71
+173,Benton,Missouri,71
+174,Benton,Oregon,81
+175,Benton,Tennessee,71
+176,Benton,Washington,79
+177,Benzie,Michigan,48
+178,Bergen,New Jersey,93
+179,Berkeley,South Carolina,77
+180,Berkeley,West Virginia,73
+181,Berks,Pennsylvania,79
+182,Berkshire,Massachusetts,90
+183,Bernalillo,New Mexico,86
+184,Berrien,Georgia,67
+185,Berrien,Michigan,76
+186,Bertie,North Carolina,72
+187,Bethel Census Area,Alaska,59
+188,Bexar,Texas,114
+189,Bibb,Alabama,67
+190,Bibb,Georgia,78
+191,Bienville,Louisiana,76
+192,Big Horn,Montana,56
+193,Big Horn,Wyoming,54
+194,Big Stone,Minnesota,74
+195,Bingham,Idaho,77
+196,Black Hawk,Iowa,80
+197,Blackford,Indiana,64
+198,Bladen,North Carolina,63
+199,Blaine,Idaho,83
+200,Blaine,Oklahoma,32
+201,Blair,Pennsylvania,71
+202,Blanco,Texas,72
+203,Bleckley,Georgia,67
+204,Bledsoe,Tennessee,69
+205,Blount,Alabama,72
+206,Blount,Tennessee,77
+207,Blue Earth,Minnesota,81
+208,Bolivar,Mississippi,79
+209,Bollinger,Missouri,71
+210,Bon Homme,South Dakota,86
+211,Bond,Illinois,68
+212,Bonner,Idaho,67
+213,Bonneville,Idaho,69
+214,Boone,Arkansas,78
+215,Boone,Illinois,61
+216,Boone,Indiana,87
+217,Boone,Iowa,69
+218,Boone,Kentucky,71
+219,Boone,Missouri,80
+220,Boone,Nebraska,32
+221,Boone,West Virginia,58
+222,Bosque,Texas,51
+223,Bossier,Louisiana,83
+224,Botetourt,Virginia,76
+225,Bottineau,North Dakota,17
+226,Boulder,Colorado,83
+227,Bourbon,Kansas,74
+228,Bourbon,Kentucky,83
+229,Bowie,Texas,81
+230,Bowman,North Dakota,59
+231,Box Butte,Nebraska,55
+232,Box Elder,Utah,79
+233,Boyd,Kentucky,68
+234,Boyd,Nebraska,4
+235,Boyle,Kentucky,69
+236,Bracken,Kentucky,69
+237,Bradford,Florida,75
+238,Bradford,Pennsylvania,73
+239,Bradley,Arkansas,79
+240,Bradley,Tennessee,77
+241,Branch,Michigan,66
+242,Brantley,Georgia,60
+243,Braxton,West Virginia,58
+244,Brazoria,Texas,83
+245,Brazos,Texas,80
+246,Breathitt,Kentucky,75
+247,Breckinridge,Kentucky,69
+248,Bremer,Iowa,64
+249,Brevard,Florida,80
+250,Brewster,Texas,35
+251,Briscoe,Texas,34
+252,Bristol,Massachusetts,83
+253,Bristol,Rhode Island,72
+254,Bristol Bay Borough,Alaska,6
+255,Bristol city,Virginia,70
+256,Broadwater,Montana,78
+257,Brooke,West Virginia,59
+258,Brookings,South Dakota,73
+259,Brooks,Georgia,68
+260,Brooks,Texas,44
+261,Broome,New York,83
+262,Broomfield,Colorado,77
+263,Broward,Florida,91
+264,Brown,Illinois,35
+265,Brown,Indiana,73
+266,Brown,Kansas,32
+267,Brown,Minnesota,66
+268,Brown,Ohio,67
+269,Brown,South Dakota,75
+270,Brown,Texas,77
+271,Brown,Wisconsin,79
+272,Brule,South Dakota,2
+273,Brunswick,North Carolina,83
+274,Brunswick,Virginia,66
+275,Bryan,Georgia,73
+276,Bryan,Oklahoma,72
+277,Buchanan,Iowa,73
+278,Buchanan,Missouri,70
+279,Buchanan,Virginia,59
+280,Buckingham,Virginia,66
+281,Bucks,Pennsylvania,86
+282,Buena Vista,Iowa,59
+283,Buena Vista city,Virginia,63
+284,Buffalo,Nebraska,77
+285,Buffalo,South Dakota,38
+286,Buffalo,Wisconsin,66
+287,Bullitt,Kentucky,70
+288,Bulloch,Georgia,69
+289,Bullock,Alabama,71
+290,Buncombe,North Carolina,76
+291,Bureau,Illinois,70
+292,Burke,Georgia,74
+293,Burke,North Carolina,72
+294,Burke,North Dakota,65
+295,Burleigh,North Dakota,80
+296,Burleson,Texas,69
+297,Burlington,New Jersey,87
+298,Burnet,Texas,72
+299,Burnett,Wisconsin,22
+300,Burt,Nebraska,57
+301,Butler,Alabama,72
+302,Butler,Iowa,70
+303,Butler,Kansas,84
+304,Butler,Kentucky,69
+305,Butler,Missouri,65
+306,Butler,Nebraska,49
+307,Butler,Ohio,83
+308,Butler,Pennsylvania,76
+309,Butte,California,76
+310,Butts,Georgia,75
+311,Cabarrus,North Carolina,85
+312,Cabell,West Virginia,68
+313,Cache,Utah,79
+314,Caddo,Louisiana,86
+315,Caddo,Oklahoma,70
+316,Calaveras,California,73
+317,Calcasieu,Louisiana,78
+318,Caldwell,Kentucky,62
+319,Caldwell,Louisiana,64
+320,Caldwell,Missouri,65
+321,Caldwell,North Carolina,72
+322,Caldwell,Texas,69
+323,Caledonia,Vermont,73
+324,Calhoun,Alabama,79
+325,Calhoun,Florida,66
+326,Calhoun,Georgia,71
+327,Calhoun,Illinois,61
+328,Calhoun,Iowa,35
+329,Calhoun,Michigan,76
+330,Calhoun,Mississippi,72
+331,Calhoun,South Carolina,80
+332,Calhoun,Texas,71
+333,Calhoun,West Virginia,40
+334,Callahan,Texas,59
+335,Callaway,Missouri,74
+336,Calloway,Kentucky,77
+337,Calumet,Wisconsin,78
+338,Calvert,Maryland,78
+339,Camas,Idaho,66
+340,Cambria,Pennsylvania,74
+341,Camden,Georgia,73
+342,Camden,Missouri,74
+343,Camden,New Jersey,91
+344,Camden,North Carolina,39
+345,Cameron,Louisiana,59
+346,Cameron,Pennsylvania,69
+347,Cameron,Texas,78
+348,Camp,Texas,65
+349,Campbell,Kentucky,70
+350,Campbell,Tennessee,83
+351,Campbell,Virginia,66
+352,Campbell,Wyoming,77
+353,Canadian,Oklahoma,81
+354,Candler,Georgia,68
+355,Cannon,Tennessee,71
+356,Canyon,Idaho,77
+357,Cape Girardeau,Missouri,73
+358,Cape May,New Jersey,78
+359,Carbon,Montana,65
+360,Carbon,Pennsylvania,73
+361,Carbon,Utah,63
+362,Carbon,Wyoming,76
+363,Caribou,Idaho,62
+364,Carlisle,Kentucky,43
+365,Carlton,Minnesota,66
+366,Caroline,Maryland,76
+367,Caroline,Virginia,63
+368,Carroll,Arkansas,65
+369,Carroll,Georgia,77
+370,Carroll,Illinois,69
+371,Carroll,Indiana,70
+372,Carroll,Iowa,85
+373,Carroll,Kentucky,69
+374,Carroll,Maryland,83
+375,Carroll,Mississippi,68
+376,Carroll,Missouri,44
+377,Carroll,New Hampshire,81
+378,Carroll,Ohio,75
+379,Carroll,Tennessee,76
+380,Carroll,Virginia,66
+381,Carson,Texas,48
+382,Carson City,Nevada,85
+383,Carter,Kentucky,61
+384,Carter,Missouri,71
+385,Carter,Oklahoma,72
+386,Carter,Tennessee,69
+387,Carteret,North Carolina,77
+388,Carver,Minnesota,89
+389,Cascade,Montana,76
+390,Casey,Kentucky,52
+391,Cass,Illinois,46
+392,Cass,Indiana,66
+393,Cass,Iowa,53
+394,Cass,Michigan,70
+395,Cass,Minnesota,74
+396,Cass,Missouri,81
+397,Cass,Nebraska,85
+398,Cass,North Dakota,80
+399,Cass,Texas,77
+400,Cassia,Idaho,73
+401,Castro,Texas,76
+402,Caswell,North Carolina,68
+403,Catahoula,Louisiana,77
+404,Catawba,North Carolina,76
+405,Catoosa,Georgia,74
+406,Catron,New Mexico,65
+407,Cattaraugus,New York,69
+408,Cayuga,New York,74
+409,Cecil,Maryland,75
+410,Cedar,Iowa,73
+411,Cedar,Missouri,67
+412,Cedar,Nebraska,39
+413,Centre,Pennsylvania,77
+414,Cerro Gordo,Iowa,75
+415,Chaffee,Colorado,76
+416,Chambers,Alabama,78
+417,Chambers,Texas,73
+418,Champaign,Illinois,75
+419,Champaign,Ohio,73
+420,Chariton,Missouri,70
+421,Charles,Maryland,84
+422,Charles City,Virginia,79
+423,Charles Mix,South Dakota,87
+424,Charleston,South Carolina,91
+425,Charlevoix,Michigan,84
+426,Charlotte,Florida,90
+427,Charlotte,Virginia,62
+428,Charlottesville city,Virginia,80
+429,Charlton,Georgia,87
+430,Chase,Kansas,49
+431,Chase,Nebraska,12
+432,Chatham,Georgia,77
+433,Chatham,North Carolina,91
+434,Chattahoochee,Georgia,70
+435,Chattooga,Georgia,75
+436,Chautauqua,Kansas,66
+437,Chautauqua,New York,72
+438,Chaves,New Mexico,74
+439,Cheatham,Tennessee,79
+440,Cheboygan,Michigan,68
+441,Chelan,Washington,93
+442,Chemung,New York,73
+443,Chenango,New York,79
+444,Cherokee,Alabama,72
+445,Cherokee,Georgia,89
+446,Cherokee,Iowa,45
+447,Cherokee,Kansas,78
+448,Cherokee,North Carolina,75
+449,Cherokee,Oklahoma,70
+450,Cherokee,South Carolina,64
+451,Cherokee,Texas,70
+452,Cherry,Nebraska,62
+453,Chesapeake city,Virginia,73
+454,Cheshire,New Hampshire,77
+455,Chester,Pennsylvania,84
+456,Chester,South Carolina,74
+457,Chester,Tennessee,75
+458,Chesterfield,South Carolina,73
+459,Chesterfield,Virginia,83
+460,Cheyenne,Colorado,29
+461,Cheyenne,Kansas,37
+462,Cheyenne,Nebraska,60
+463,Chickasaw,Iowa,60
+464,Chickasaw,Mississippi,75
+465,Chicot,Arkansas,71
+466,Childress,Texas,47
+467,Chilton,Alabama,72
+468,Chippewa,Michigan,74
+469,Chippewa,Minnesota,46
+470,Chippewa,Wisconsin,77
+471,Chisago,Minnesota,77
+472,Chittenden,Vermont,86
+473,Choctaw,Alabama,71
+474,Choctaw,Mississippi,73
+475,Choctaw,Oklahoma,70
+476,Chowan,North Carolina,63
+477,Christian,Illinois,77
+478,Christian,Kentucky,78
+479,Christian,Missouri,77
+480,Churchill,Nevada,53
+481,Cibola,New Mexico,73
+482,Cimarron,Oklahoma,45
+483,Citrus,Florida,82
+484,Clackamas,Oregon,85
+485,Claiborne,Louisiana,76
+486,Claiborne,Mississippi,68
+487,Claiborne,Tennessee,73
+488,Clallam,Washington,78
+489,Clare,Michigan,76
+490,Clarendon,South Carolina,77
+491,Clarion,Pennsylvania,69
+492,Clark,Arkansas,78
+493,Clark,Illinois,67
+494,Clark,Indiana,79
+495,Clark,Kansas,43
+496,Clark,Kentucky,82
+497,Clark,Missouri,63
+498,Clark,Nevada,92
+499,Clark,Ohio,79
+500,Clark,South Dakota,68
+501,Clark,Washington,91
+502,Clark,Wisconsin,71
+503,Clarke,Alabama,65
+504,Clarke,Georgia,82
+505,Clarke,Iowa,61
+506,Clarke,Mississippi,69
+507,Clarke,Virginia,66
+508,Clatsop,Oregon,73
+509,Clay,Alabama,72
+510,Clay,Arkansas,60
+511,Clay,Florida,85
+512,Clay,Georgia,67
+513,Clay,Illinois,52
+514,Clay,Indiana,68
+515,Clay,Iowa,66
+516,Clay,Kansas,70
+517,Clay,Kentucky,47
+518,Clay,Minnesota,77
+519,Clay,Mississippi,76
+520,Clay,Missouri,74
+521,Clay,Nebraska,56
+522,Clay,North Carolina,66
+523,Clay,South Dakota,68
+524,Clay,Tennessee,65
+525,Clay,Texas,65
+526,Clay,West Virginia,30
+527,Clayton,Georgia,82
+528,Clayton,Iowa,71
+529,Clear Creek,Colorado,84
+530,Clearfield,Pennsylvania,73
+531,Clearwater,Minnesota,69
+532,Cleburne,Alabama,72
+533,Cleburne,Arkansas,81
+534,Clermont,Ohio,76
+535,Cleveland,Arkansas,81
+536,Cleveland,North Carolina,72
+537,Cleveland,Oklahoma,82
+538,Clinch,Georgia,75
+539,Clinton,Illinois,82
+540,Clinton,Indiana,70
+541,Clinton,Iowa,70
+542,Clinton,Kentucky,62
+543,Clinton,Michigan,78
+544,Clinton,Missouri,74
+545,Clinton,New York,80
+546,Clinton,Ohio,75
+547,Clinton,Pennsylvania,63
+548,Cloud,Kansas,64
+549,Coahoma,Mississippi,79
+550,Coal,Oklahoma,17
+551,Cobb,Georgia,90
+552,Cochise,Arizona,76
+553,Cochran,Texas,43
+554,Cocke,Tennessee,76
+555,Coconino,Arizona,79
+556,Codington,South Dakota,74
+557,Coffee,Alabama,64
+558,Coffee,Georgia,75
+559,Coffee,Tennessee,68
+560,Coffey,Kansas,70
+561,Coke,Texas,31
+562,Colbert,Alabama,72
+563,Cole,Missouri,80
+564,Coleman,Texas,34
+565,Coles,Illinois,59
+566,Colfax,Nebraska,64
+567,Colfax,New Mexico,57
+568,Colleton,South Carolina,75
+569,Collier,Florida,87
+570,Collin,Texas,88
+571,Collingsworth,Texas,31
+572,Colonial Heights city,Virginia,56
+573,Colorado,Texas,65
+574,Colquitt,Georgia,73
+575,Columbia,Arkansas,73
+576,Columbia,Florida,75
+577,Columbia,Georgia,79
+578,Columbia,New York,77
+579,Columbia,Oregon,70
+580,Columbia,Pennsylvania,75
+581,Columbia,Washington,85
+582,Columbia,Wisconsin,78
+583,Columbiana,Ohio,77
+584,Columbus,North Carolina,68
+585,Colusa,California,70
+586,Comal,Texas,73
+587,Comanche,Kansas,14
+588,Comanche,Oklahoma,71
+589,Comanche,Texas,65
+590,Concho,Texas,56
+591,Concordia,Louisiana,66
+592,Conecuh,Alabama,65
+593,Conejos,Colorado,29
+594,Contra Costa,California,94
+595,Converse,Wyoming,69
+596,Conway,Arkansas,73
+597,Cook,Georgia,67
+598,Cook,Illinois,133
+599,Cooke,Texas,56
+600,Cooper,Missouri,72
+601,Coos,New Hampshire,63
+602,Coos,Oregon,55
+603,Coosa,Alabama,71
+604,Copiah,Mississippi,84
+605,Corson,South Dakota,57
+606,Cortland,New York,75
+607,Coryell,Texas,72
+608,Coshocton,Ohio,80
+609,Costilla,Colorado,70
+610,Cottle,Texas,39
+611,Cotton,Oklahoma,67
+612,Cottonwood,Minnesota,68
+613,Covington,Alabama,70
+614,Covington,Mississippi,69
+615,Covington city,Virginia,27
+616,Coweta,Georgia,83
+617,Cowley,Kansas,64
+618,Cowlitz,Washington,77
+619,Craig,Oklahoma,71
+620,Craig,Virginia,59
+621,Craighead,Arkansas,78
+622,Crane,Texas,78
+623,Craven,North Carolina,83
+624,Crawford,Arkansas,73
+625,Crawford,Georgia,61
+626,Crawford,Illinois,67
+627,Crawford,Indiana,69
+628,Crawford,Iowa,67
+629,Crawford,Kansas,72
+630,Crawford,Michigan,70
+631,Crawford,Missouri,67
+632,Crawford,Ohio,73
+633,Crawford,Pennsylvania,71
+634,Crawford,Wisconsin,65
+635,Creek,Oklahoma,72
+636,Crenshaw,Alabama,71
+637,Crisp,Georgia,73
+638,Crittenden,Arkansas,78
+639,Crittenden,Kentucky,64
+640,Crockett,Tennessee,48
+641,Crook,Oregon,63
+642,Crook,Wyoming,62
+643,Crosby,Texas,59
+644,Cross,Arkansas,73
+645,Crow Wing,Minnesota,65
+646,Crowley,Colorado,78
+647,Cullman,Alabama,77
+648,Culpeper,Virginia,75
+649,Cumberland,Illinois,83
+650,Cumberland,Kentucky,64
+651,Cumberland,Maine,84
+652,Cumberland,New Jersey,77
+653,Cumberland,North Carolina,75
+654,Cumberland,Pennsylvania,84
+655,Cumberland,Tennessee,78
+656,Cumberland,Virginia,64
+657,Cuming,Nebraska,65
+658,Currituck,North Carolina,68
+659,Curry,New Mexico,73
+660,Curry,Oregon,60
+661,Custer,Colorado,64
+662,Custer,Idaho,71
+663,Custer,Nebraska,60
+664,Custer,Oklahoma,78
+665,Custer,South Dakota,1
+666,Cuyahoga,Ohio,88
+667,Dade,Georgia,67
+668,Dakota,Minnesota,85
+669,Dakota,Nebraska,54
+670,Dale,Alabama,65
+671,Dallam,Texas,59
+672,Dallas,Alabama,72
+673,Dallas,Arkansas,62
+674,Dallas,Iowa,83
+675,Dallas,Missouri,59
+676,Dallas,Texas,87
+677,Dane,Wisconsin,121
+678,Danville city,Virginia,74
+679,Dare,North Carolina,64
+680,Darke,Ohio,80
+681,Darlington,South Carolina,77
+682,Dauphin,Pennsylvania,75
+683,Davidson,North Carolina,77
+684,Davidson,Tennessee,89
+685,Davie,North Carolina,75
+686,Daviess,Indiana,61
+687,Daviess,Kentucky,78
+688,Daviess,Missouri,51
+689,Davis,Iowa,37
+690,Davis,Utah,91
+691,Davison,South Dakota,87
+692,Dawes,Nebraska,27
+693,Dawson,Georgia,77
+694,Dawson,Nebraska,75
+695,Dawson,Texas,68
+696,Day,South Dakota,37
+697,De Soto,Louisiana,77
+698,De Witt,Illinois,63
+699,DeKalb,Alabama,71
+700,DeKalb,Georgia,88
+701,DeKalb,Illinois,76
+702,DeKalb,Indiana,72
+703,DeKalb,Missouri,65
+704,DeKalb,Tennessee,73
+705,DeSoto,Florida,75
+706,DeSoto,Mississippi,79
+707,DeWitt,Texas,78
+708,Deaf Smith,Texas,76
+709,Dearborn,Indiana,73
+710,Decatur,Georgia,72
+711,Decatur,Indiana,73
+712,Decatur,Iowa,9
+713,Decatur,Tennessee,58
+714,Deer Lodge,Montana,68
+715,Defiance,Ohio,76
+716,Del Norte,California,64
+717,Delaware,Indiana,76
+718,Delaware,Iowa,59
+719,Delaware,New York,85
+720,Delaware,Ohio,79
+721,Delaware,Oklahoma,72
+722,Delaware,Pennsylvania,91
+723,Delta,Colorado,73
+724,Delta,Michigan,67
+725,Delta,Texas,58
+726,Dent,Missouri,21
+727,Denton,Texas,82
+728,Denver,Colorado,91
+729,Des Moines,Iowa,71
+730,Deschutes,Oregon,86
+731,Desha,Arkansas,81
+732,Deuel,South Dakota,69
+733,Dewey,Oklahoma,59
+734,Dewey,South Dakota,2
+735,Dickens,Texas,58
+736,Dickey,North Dakota,3
+737,Dickinson,Iowa,70
+738,Dickinson,Kansas,52
+739,Dickinson,Michigan,64
+740,Dickson,Tennessee,77
+741,Dillingham Census Area,Alaska,5
+742,Dillon,South Carolina,76
+743,Dimmit,Texas,55
+744,Dinwiddie,Virginia,59
+745,District of Columbia,District of Columbia,90
+746,Divide,North Dakota,69
+747,Dixie,Florida,62
+748,Dixon,Nebraska,46
+749,Dodge,Georgia,72
+750,Dodge,Minnesota,76
+751,Dodge,Nebraska,72
+752,Dodge,Wisconsin,74
+753,Doniphan,Kansas,73
+754,Donley,Texas,64
+755,Dooly,Georgia,67
+756,Door,Wisconsin,67
+757,Dorchester,Maryland,65
+758,Dorchester,South Carolina,78
+759,Dougherty,Georgia,82
+760,Douglas,Colorado,92
+761,Douglas,Georgia,77
+762,Douglas,Illinois,72
+763,Douglas,Kansas,80
+764,Douglas,Minnesota,68
+765,Douglas,Missouri,5
+766,Douglas,Nebraska,109
+767,Douglas,Nevada,74
+768,Douglas,Oregon,89
+769,Douglas,South Dakota,39
+770,Douglas,Washington,74
+771,Douglas,Wisconsin,77
+772,Doña Ana,New Mexico,77
+773,Drew,Arkansas,72
+774,DuPage,Illinois,83
+775,Dubois,Indiana,74
+776,Dubuque,Iowa,78
+777,Duchesne,Utah,63
+778,Dukes,Massachusetts,72
+779,Dunklin,Missouri,77
+780,Dunn,North Dakota,73
+781,Dunn,Wisconsin,77
+782,Duplin,North Carolina,72
+783,Durham,North Carolina,81
+784,Dutchess,New York,85
+785,Duval,Florida,85
+786,Duval,Texas,52
+787,Dyer,Tennessee,78
+788,Eagle,Colorado,91
+789,Early,Georgia,78
+790,East Baton Rouge,Louisiana,80
+791,East Carroll,Louisiana,69
+792,East Feliciana,Louisiana,71
+793,Eastland,Texas,72
+794,Eaton,Michigan,78
+795,Eau Claire,Wisconsin,78
+796,Echols,Georgia,60
+797,Ector,Texas,68
+798,Eddy,New Mexico,72
+799,Eddy,North Dakota,63
+800,Edgar,Illinois,7
+801,Edgecombe,North Carolina,69
+802,Edgefield,South Carolina,76
+803,Edmonson,Kentucky,66
+804,Edmunds,South Dakota,7
+805,Edwards,Illinois,23
+806,Edwards,Kansas,44
+807,Effingham,Georgia,78
+808,Effingham,Illinois,63
+809,El Dorado,California,76
+810,El Paso,Colorado,91
+811,El Paso,Texas,84
+812,Elbert,Colorado,76
+813,Elbert,Georgia,63
+814,Elk,Pennsylvania,59
+815,Elkhart,Indiana,76
+816,Elko,Nevada,78
+817,Elliott,Kentucky,16
+818,Ellis,Kansas,55
+819,Ellis,Texas,80
+820,Ellsworth,Kansas,32
+821,Elmore,Alabama,84
+822,Elmore,Idaho,67
+823,Emanuel,Georgia,66
+824,Emery,Utah,63
+825,Emmet,Iowa,23
+826,Emmet,Michigan,75
+827,Emmons,North Dakota,61
+828,Emporia city,Virginia,63
+829,Erath,Texas,72
+830,Erie,New York,82
+831,Erie,Ohio,76
+832,Erie,Pennsylvania,77
+833,Escambia,Alabama,70
+834,Escambia,Florida,81
+835,Essex,Massachusetts,87
+836,Essex,New Jersey,85
+837,Essex,New York,79
+838,Essex,Vermont,58
+839,Essex,Virginia,50
+840,Estill,Kentucky,3
+841,Etowah,Alabama,72
+842,Evangeline,Louisiana,76
+843,Evans,Georgia,54
+844,Fairbanks North Star Borough,Alaska,81
+845,Fairfax,Virginia,90
+846,Fairfax city,Virginia,56
+847,Fairfield,Connecticut,89
+848,Fairfield,Ohio,73
+849,Fairfield,South Carolina,81
+850,Fall River,South Dakota,68
+851,Falls,Texas,73
+852,Falls Church city,Virginia,53
+853,Fannin,Georgia,73
+854,Fannin,Texas,77
+855,Faribault,Minnesota,70
+856,Faulk,South Dakota,70
+857,Faulkner,Arkansas,79
+858,Fauquier,Virginia,71
+859,Fayette,Alabama,67
+860,Fayette,Georgia,88
+861,Fayette,Illinois,69
+862,Fayette,Indiana,79
+863,Fayette,Iowa,76
+864,Fayette,Kentucky,91
+865,Fayette,Ohio,72
+866,Fayette,Pennsylvania,75
+867,Fayette,Tennessee,76
+868,Fayette,Texas,72
+869,Fayette,West Virginia,59
+870,Fentress,Tennessee,67
+871,Ferry,Washington,72
+872,Fillmore,Minnesota,77
+873,Fillmore,Nebraska,44
+874,Finney,Kansas,68
+875,Fisher,Texas,21
+876,Flagler,Florida,75
+877,Flathead,Montana,78
+878,Fleming,Kentucky,55
+879,Florence,South Carolina,77
+880,Florence,Wisconsin,61
+881,Floyd,Georgia,88
+882,Floyd,Indiana,81
+883,Floyd,Iowa,35
+884,Floyd,Kentucky,69
+885,Floyd,Texas,58
+886,Floyd,Virginia,57
+887,Fluvanna,Virginia,75
+888,Fond du Lac,Wisconsin,86
+889,Ford,Illinois,66
+890,Ford,Kansas,80
+891,Forest,Pennsylvania,64
+892,Forest,Wisconsin,30
+893,Forrest,Mississippi,86
+894,Forsyth,Georgia,81
+895,Forsyth,North Carolina,85
+896,Fort Bend,Texas,93
+897,Foster,North Dakota,72
+898,Fountain,Indiana,71
+899,Franklin,Alabama,74
+900,Franklin,Arkansas,60
+901,Franklin,Florida,63
+902,Franklin,Georgia,71
+903,Franklin,Idaho,7
+904,Franklin,Illinois,71
+905,Franklin,Indiana,80
+906,Franklin,Iowa,60
+907,Franklin,Kansas,83
+908,Franklin,Kentucky,79
+909,Franklin,Louisiana,69
+910,Franklin,Maine,71
+911,Franklin,Massachusetts,79
+912,Franklin,Mississippi,77
+913,Franklin,Missouri,73
+914,Franklin,Nebraska,56
+915,Franklin,New York,72
+916,Franklin,North Carolina,77
+917,Franklin,Ohio,83
+918,Franklin,Pennsylvania,77
+919,Franklin,Tennessee,75
+920,Franklin,Texas,68
+921,Franklin,Vermont,76
+922,Franklin,Virginia,76
+923,Franklin,Washington,80
+924,Franklin city,Virginia,66
+925,Frederick,Maryland,81
+926,Frederick,Virginia,72
+927,Fredericksburg city,Virginia,72
+928,Freeborn,Minnesota,65
+929,Freestone,Texas,51
+930,Fremont,Colorado,73
+931,Fremont,Idaho,72
+932,Fremont,Iowa,28
+933,Fremont,Wyoming,84
+934,Fresno,California,90
+935,Frio,Texas,58
+936,Frontier,Nebraska,37
+937,Fulton,Arkansas,43
+938,Fulton,Georgia,95
+939,Fulton,Illinois,56
+940,Fulton,Indiana,70
+941,Fulton,Kentucky,47
+942,Fulton,New York,77
+943,Fulton,Ohio,70
+944,Fulton,Pennsylvania,61
+945,Furnas,Nebraska,48
+946,Gadsden,Florida,72
+947,Gage,Nebraska,64
+948,Gaines,Texas,72
+949,Galax city,Virginia,70
+950,Gallatin,Illinois,61
+951,Gallatin,Kentucky,55
+952,Gallatin,Montana,84
+953,Gallia,Ohio,75
+954,Galveston,Texas,84
+955,Garden,Nebraska,4
+956,Garfield,Colorado,82
+957,Garfield,Nebraska,1
+958,Garfield,Oklahoma,68
+959,Garfield,Utah,69
+960,Garland,Arkansas,82
+961,Garrard,Kentucky,52
+962,Garrett,Maryland,74
+963,Garvin,Oklahoma,77
+964,Garza,Texas,36
+965,Gasconade,Missouri,65
+966,Gaston,North Carolina,79
+967,Gates,North Carolina,64
+968,Geary,Kansas,61
+969,Geauga,Ohio,81
+970,Gem,Idaho,70
+971,Genesee,Michigan,78
+972,Genesee,New York,77
+973,Geneva,Alabama,54
+974,Gentry,Missouri,60
+975,George,Mississippi,76
+976,Georgetown,South Carolina,74
+977,Gibson,Indiana,73
+978,Gibson,Tennessee,75
+979,Gila,Arizona,69
+980,Gilchrist,Florida,59
+981,Giles,Tennessee,67
+982,Giles,Virginia,60
+983,Gillespie,Texas,64
+984,Gilmer,Georgia,67
+985,Gilmer,West Virginia,41
+986,Gilpin,Colorado,57
+987,Glacier,Montana,63
+988,Glades,Florida,68
+989,Gladwin,Michigan,75
+990,Glascock,Georgia,29
+991,Glasscock,Texas,36
+992,Glenn,California,69
+993,Gloucester,New Jersey,80
+994,Gloucester,Virginia,77
+995,Glynn,Georgia,78
+996,Gogebic,Michigan,71
+997,Golden Valley,Montana,55
+998,Goliad,Texas,64
+999,Gonzales,Texas,65
+1000,Goochland,Virginia,80
+1001,Goodhue,Minnesota,72
+1002,Gooding,Idaho,65
+1003,Gordon,Georgia,84
+1004,Goshen,Wyoming,70
+1005,Gosper,Nebraska,69
+1006,Gove,Kansas,70
+1007,Grady,Georgia,66
+1008,Grady,Oklahoma,78
+1009,Grafton,New Hampshire,95
+1010,Graham,Arizona,83
+1011,Graham,North Carolina,38
+1012,Grainger,Tennessee,65
+1013,Grand,Colorado,78
+1014,Grand,Utah,63
+1015,Grand Forks,North Dakota,67
+1016,Grand Isle,Vermont,59
+1017,Grand Traverse,Michigan,75
+1018,Grant,Arkansas,78
+1019,Grant,Indiana,77
+1020,Grant,Kansas,42
+1021,Grant,Kentucky,69
+1022,Grant,Louisiana,74
+1023,Grant,Minnesota,34
+1024,Grant,New Mexico,65
+1025,Grant,North Dakota,66
+1026,Grant,Oklahoma,63
+1027,Grant,Oregon,77
+1028,Grant,South Dakota,30
+1029,Grant,Washington,84
+1030,Grant,West Virginia,54
+1031,Grant,Wisconsin,72
+1032,Granville,North Carolina,75
+1033,Gratiot,Michigan,70
+1034,Graves,Kentucky,66
+1035,Gray,Kansas,43
+1036,Gray,Texas,65
+1037,Grays Harbor,Washington,85
+1038,Grayson,Kentucky,72
+1039,Grayson,Texas,73
+1040,Grayson,Virginia,38
+1041,Greeley,Nebraska,43
+1042,Green,Kentucky,59
+1043,Green,Wisconsin,77
+1044,Green Lake,Wisconsin,53
+1045,Greenbrier,West Virginia,70
+1046,Greene,Alabama,70
+1047,Greene,Arkansas,78
+1048,Greene,Georgia,73
+1049,Greene,Illinois,56
+1050,Greene,Indiana,68
+1051,Greene,Iowa,59
+1052,Greene,Mississippi,60
+1053,Greene,Missouri,85
+1054,Greene,New York,82
+1055,Greene,North Carolina,70
+1056,Greene,Ohio,75
+1057,Greene,Pennsylvania,72
+1058,Greene,Tennessee,77
+1059,Greene,Virginia,71
+1060,Greenlee,Arizona,67
+1061,Greensville,Virginia,68
+1062,Greenup,Kentucky,61
+1063,Greenville,South Carolina,82
+1064,Greenwood,Kansas,62
+1065,Greenwood,South Carolina,76
+1066,Greer,Oklahoma,65
+1067,Gregg,Texas,86
+1068,Gregory,South Dakota,5
+1069,Grenada,Mississippi,76
+1070,Griggs,North Dakota,14
+1071,Grimes,Texas,72
+1072,Grundy,Illinois,73
+1073,Grundy,Iowa,62
+1074,Grundy,Missouri,13
+1075,Grundy,Tennessee,73
+1076,Guadalupe,New Mexico,48
+1077,Guadalupe,Texas,72
+1078,Guernsey,Ohio,64
+1079,Guilford,North Carolina,79
+1080,Gulf,Florida,65
+1081,Gunnison,Colorado,87
+1082,Guthrie,Iowa,67
+1083,Gwinnett,Georgia,90
+1084,Habersham,Georgia,70
+1085,Hale,Alabama,67
+1086,Hale,Texas,72
+1087,Halifax,North Carolina,68
+1088,Halifax,Virginia,73
+1089,Hall,Georgia,81
+1090,Hall,Nebraska,71
+1091,Hall,Texas,16
+1092,Hamblen,Tennessee,77
+1093,Hamilton,Florida,60
+1094,Hamilton,Illinois,48
+1095,Hamilton,Indiana,82
+1096,Hamilton,Iowa,61
+1097,Hamilton,Kansas,55
+1098,Hamilton,Nebraska,64
+1099,Hamilton,New York,79
+1100,Hamilton,Ohio,78
+1101,Hamilton,Tennessee,84
+1102,Hamilton,Texas,59
+1103,Hamlin,South Dakota,69
+1104,Hampden,Massachusetts,82
+1105,Hampshire,Massachusetts,78
+1106,Hampshire,West Virginia,58
+1107,Hampton,South Carolina,64
+1108,Hampton city,Virginia,71
+1109,Hancock,Georgia,59
+1110,Hancock,Illinois,58
+1111,Hancock,Indiana,76
+1112,Hancock,Iowa,74
+1113,Hancock,Kentucky,66
+1114,Hancock,Maine,65
+1115,Hancock,Mississippi,81
+1116,Hancock,Ohio,75
+1117,Hancock,Tennessee,17
+1118,Hancock,West Virginia,70
+1119,Hand,South Dakota,40
+1120,Hanover,Virginia,85
+1121,Hansford,Texas,59
+1122,Hanson,South Dakota,2
+1123,Haralson,Georgia,71
+1124,Hardee,Florida,65
+1125,Hardeman,Tennessee,69
+1126,Hardeman,Texas,13
+1127,Hardin,Illinois,45
+1128,Hardin,Iowa,70
+1129,Hardin,Kentucky,75
+1130,Hardin,Ohio,64
+1131,Hardin,Tennessee,73
+1132,Hardin,Texas,72
+1133,Harding,New Mexico,43
+1134,Hardy,West Virginia,66
+1135,Harford,Maryland,89
+1136,Harlan,Kentucky,29
+1137,Harlan,Nebraska,7
+1138,Harnett,North Carolina,83
+1139,Harney,Oregon,38
+1140,Harper,Kansas,36
+1141,Harper,Oklahoma,48
+1142,Harris,Georgia,74
+1143,Harris,Texas,92
+1144,Harrison,Indiana,76
+1145,Harrison,Iowa,84
+1146,Harrison,Kentucky,89
+1147,Harrison,Mississippi,80
+1148,Harrison,Missouri,66
+1149,Harrison,Ohio,51
+1150,Harrison,Texas,70
+1151,Harrison,West Virginia,73
+1152,Harrisonburg city,Virginia,84
+1153,Hart,Georgia,70
+1154,Hart,Kentucky,59
+1155,Hartford,Connecticut,83
+1156,Hartley,Texas,46
+1157,Harvey,Kansas,70
+1158,Haskell,Kansas,46
+1159,Haskell,Oklahoma,49
+1160,Haskell,Texas,21
+1161,Hawaii,Hawaii,80
+1162,Hawkins,Tennessee,72
+1163,Hays,Texas,83
+1164,Haywood,North Carolina,63
+1165,Haywood,Tennessee,68
+1166,Heard,Georgia,77
+1167,Hemphill,Texas,62
+1168,Hempstead,Arkansas,68
+1169,Henderson,Illinois,49
+1170,Henderson,Kentucky,78
+1171,Henderson,North Carolina,75
+1172,Henderson,Tennessee,61
+1173,Henderson,Texas,68
+1174,Hendricks,Indiana,89
+1175,Hendry,Florida,69
+1176,Hennepin,Minnesota,85
+1177,Henrico,Virginia,80
+1178,Henry,Alabama,63
+1179,Henry,Georgia,84
+1180,Henry,Illinois,70
+1181,Henry,Indiana,70
+1182,Henry,Iowa,76
+1183,Henry,Kentucky,66
+1184,Henry,Missouri,84
+1185,Henry,Ohio,58
+1186,Henry,Tennessee,68
+1187,Henry,Virginia,67
+1188,Herkimer,New York,85
+1189,Hernando,Florida,78
+1190,Hertford,North Carolina,72
+1191,Hickman,Kentucky,45
+1192,Hickman,Tennessee,65
+1193,Hidalgo,New Mexico,18
+1194,Hidalgo,Texas,73
+1195,Highland,Ohio,73
+1196,Highland,Virginia,44
+1197,Highlands,Florida,76
+1198,Hill,Montana,72
+1199,Hill,Texas,67
+1200,Hillsborough,Florida,96
+1201,Hillsborough,New Hampshire,82
+1202,Hillsdale,Michigan,73
+1203,Hinds,Mississippi,82
+1204,Hinsdale,Colorado,76
+1205,Hitchcock,Nebraska,36
+1206,Hocking,Ohio,55
+1207,Hockley,Texas,77
+1208,Hodgeman,Kansas,14
+1209,Hoke,North Carolina,79
+1210,Holmes,Florida,67
+1211,Holmes,Mississippi,78
+1212,Holmes,Ohio,67
+1213,Holt,Missouri,51
+1214,Holt,Nebraska,33
+1215,Honolulu,Hawaii,91
+1216,Hood,Texas,70
+1217,Hood River,Oregon,74
+1218,Hopewell city,Virginia,69
+1219,Hopkins,Kentucky,71
+1220,Hopkins,Texas,72
+1221,Horry,South Carolina,82
+1222,Hot Spring,Arkansas,73
+1223,Hot Springs,Wyoming,71
+1224,Houghton,Michigan,67
+1225,Houston,Alabama,74
+1226,Houston,Georgia,79
+1227,Houston,Minnesota,61
+1228,Houston,Tennessee,75
+1229,Houston,Texas,47
+1230,Howard,Arkansas,71
+1231,Howard,Indiana,86
+1232,Howard,Iowa,62
+1233,Howard,Maryland,82
+1234,Howard,Missouri,59
+1235,Howard,Nebraska,50
+1236,Howard,Texas,56
+1237,Howell,Missouri,64
+1238,Hubbard,Minnesota,13
+1239,Hudson,New Jersey,88
+1240,Hudspeth,Texas,10
+1241,Huerfano,Colorado,73
+1242,Hughes,Oklahoma,7
+1243,Hughes,South Dakota,74
+1244,Humboldt,California,106
+1245,Humboldt,Iowa,45
+1246,Humboldt,Nevada,69
+1247,Humphreys,Mississippi,77
+1248,Humphreys,Tennessee,66
+1249,Hunt,Texas,72
+1250,Hunterdon,New Jersey,81
+1251,Huntingdon,Pennsylvania,69
+1252,Huntington,Indiana,70
+1253,Huron,Michigan,70
+1254,Huron,Ohio,79
+1255,Hutchinson,South Dakota,69
+1256,Hutchinson,Texas,62
+1257,Hyde,North Carolina,37
+1258,Hyde,South Dakota,53
+1259,Iberia,Louisiana,78
+1260,Iberville,Louisiana,78
+1261,Ida,Iowa,24
+1262,Idaho,Idaho,72
+1263,Imperial,California,77
+1264,Independence,Arkansas,78
+1265,Indian River,Florida,78
+1266,Indiana,Pennsylvania,71
+1267,Ingham,Michigan,85
+1268,Inyo,California,72
+1269,Ionia,Michigan,71
+1270,Iosco,Michigan,72
+1271,Iowa,Iowa,70
+1272,Iowa,Wisconsin,72
+1273,Iredell,North Carolina,80
+1274,Irion,Texas,3
+1275,Iron,Michigan,3
+1276,Iron,Missouri,55
+1277,Iron,Utah,74
+1278,Iron,Wisconsin,70
+1279,Iroquois,Illinois,70
+1280,Irwin,Georgia,73
+1281,Isabella,Michigan,73
+1282,Isanti,Minnesota,68
+1283,Island,Washington,86
+1284,Isle of Wight,Virginia,76
+1285,Itasca,Minnesota,67
+1286,Itawamba,Mississippi,76
+1287,Izard,Arkansas,60
+1288,Jack,Texas,57
+1289,Jackson,Alabama,77
+1290,Jackson,Arkansas,53
+1291,Jackson,Florida,78
+1292,Jackson,Georgia,72
+1293,Jackson,Illinois,79
+1294,Jackson,Indiana,73
+1295,Jackson,Iowa,67
+1296,Jackson,Kansas,75
+1297,Jackson,Kentucky,58
+1298,Jackson,Louisiana,72
+1299,Jackson,Michigan,80
+1300,Jackson,Minnesota,76
+1301,Jackson,Mississippi,80
+1302,Jackson,Missouri,80
+1303,Jackson,North Carolina,53
+1304,Jackson,Ohio,58
+1305,Jackson,Oklahoma,83
+1306,Jackson,Oregon,90
+1307,Jackson,South Dakota,12
+1308,Jackson,Tennessee,64
+1309,Jackson,Texas,71
+1310,Jackson,West Virginia,77
+1311,Jackson,Wisconsin,67
+1312,James City,Virginia,85
+1313,Jasper,Georgia,73
+1314,Jasper,Illinois,62
+1315,Jasper,Indiana,72
+1316,Jasper,Iowa,73
+1317,Jasper,Mississippi,65
+1318,Jasper,Missouri,76
+1319,Jasper,South Carolina,76
+1320,Jasper,Texas,64
+1321,Jay,Indiana,65
+1322,Jeff Davis,Georgia,60
+1323,Jefferson,Alabama,84
+1324,Jefferson,Arkansas,86
+1325,Jefferson,Colorado,92
+1326,Jefferson,Florida,62
+1327,Jefferson,Georgia,67
+1328,Jefferson,Idaho,72
+1329,Jefferson,Illinois,60
+1330,Jefferson,Indiana,66
+1331,Jefferson,Iowa,64
+1332,Jefferson,Kansas,71
+1333,Jefferson,Kentucky,89
+1334,Jefferson,Louisiana,88
+1335,Jefferson,Mississippi,70
+1336,Jefferson,Missouri,73
+1337,Jefferson,Montana,73
+1338,Jefferson,Nebraska,40
+1339,Jefferson,New York,79
+1340,Jefferson,Ohio,71
+1341,Jefferson,Oklahoma,60
+1342,Jefferson,Oregon,52
+1343,Jefferson,Pennsylvania,59
+1344,Jefferson,Tennessee,84
+1345,Jefferson,Texas,73
+1346,Jefferson,Washington,91
+1347,Jefferson,West Virginia,80
+1348,Jefferson,Wisconsin,77
+1349,Jefferson Davis,Louisiana,72
+1350,Jefferson Davis,Mississippi,57
+1351,Jenkins,Georgia,69
+1352,Jennings,Indiana,79
+1353,Jerauld,South Dakota,57
+1354,Jerome,Idaho,67
+1355,Jersey,Illinois,63
+1356,Jessamine,Kentucky,75
+1357,Jewell,Kansas,62
+1358,Jim Hogg,Texas,43
+1359,Jim Wells,Texas,64
+1360,Jo Daviess,Illinois,75
+1361,Johnson,Arkansas,69
+1362,Johnson,Georgia,67
+1363,Johnson,Illinois,53
+1364,Johnson,Indiana,86
+1365,Johnson,Iowa,89
+1366,Johnson,Kansas,90
+1367,Johnson,Kentucky,61
+1368,Johnson,Missouri,76
+1369,Johnson,Nebraska,61
+1370,Johnson,Tennessee,69
+1371,Johnson,Texas,78
+1372,Johnson,Wyoming,71
+1373,Johnston,North Carolina,85
+1374,Johnston,Oklahoma,52
+1375,Jones,Georgia,72
+1376,Jones,Iowa,67
+1377,Jones,Mississippi,78
+1378,Jones,North Carolina,57
+1379,Jones,Texas,58
+1380,Josephine,Oregon,76
+1381,Juab,Utah,63
+1382,Juneau,Wisconsin,72
+1383,Juneau City and Borough,Alaska,74
+1384,Juniata,Pennsylvania,73
+1385,Kalamazoo,Michigan,74
+1386,Kalkaska,Michigan,73
+1387,Kanabec,Minnesota,35
+1388,Kanawha,West Virginia,77
+1389,Kandiyohi,Minnesota,71
+1390,Kane,Illinois,87
+1391,Kane,Utah,64
+1392,Kankakee,Illinois,79
+1393,Kansas City,Missouri,77
+1394,Karnes,Texas,71
+1395,Kauai,Hawaii,83
+1396,Kaufman,Texas,72
+1397,Kay,Oklahoma,82
+1398,Kearney,Nebraska,71
+1399,Kearny,Kansas,54
+1400,Keith,Nebraska,34
+1401,Kemper,Mississippi,70
+1402,Kenai Peninsula Borough,Alaska,79
+1403,Kendall,Illinois,79
+1404,Kendall,Texas,72
+1405,Kennebec,Maine,80
+1406,Kenosha,Wisconsin,80
+1407,Kent,Delaware,79
+1408,Kent,Maryland,72
+1409,Kent,Michigan,85
+1410,Kent,Rhode Island,72
+1411,Kenton,Kentucky,79
+1412,Keokuk,Iowa,69
+1413,Kern,California,80
+1414,Kerr,Texas,65
+1415,Kershaw,South Carolina,91
+1416,Ketchikan Gateway Borough,Alaska,80
+1417,Kewaunee,Wisconsin,60
+1418,Kimball,Nebraska,66
+1419,Kimble,Texas,28
+1420,King,Washington,98
+1421,King George,Virginia,71
+1422,King William,Virginia,67
+1423,King and Queen,Virginia,66
+1424,Kingfisher,Oklahoma,64
+1425,Kings,California,70
+1426,Kingsbury,South Dakota,7
+1427,Kinney,Texas,6
+1428,Kiowa,Kansas,43
+1429,Kiowa,Oklahoma,64
+1430,Kit Carson,Colorado,71
+1431,Kitsap,Washington,89
+1432,Kittitas,Washington,90
+1433,Kittson,Minnesota,48
+1434,Klamath,Oregon,90
+1435,Kleberg,Texas,68
+1436,Klickitat,Washington,83
+1437,Knott,Kentucky,55
+1438,Knox,Illinois,68
+1439,Knox,Indiana,68
+1440,Knox,Kentucky,57
+1441,Knox,Maine,74
+1442,Knox,Nebraska,80
+1443,Knox,Ohio,74
+1444,Knox,Tennessee,85
+1445,Knox,Texas,59
+1446,Kodiak Island Borough,Alaska,50
+1447,Koochiching,Minnesota,64
+1448,Kootenai,Idaho,77
+1449,Kosciusko,Indiana,70
+1450,Kossuth,Iowa,75
+1451,La Crosse,Wisconsin,79
+1452,La Paz,Arizona,71
+1453,La Plata,Colorado,74
+1454,La Salle,Texas,50
+1455,LaGrange,Indiana,70
+1456,LaPorte,Indiana,83
+1457,LaSalle,Illinois,79
+1458,LaSalle,Louisiana,71
+1459,Labette,Kansas,66
+1460,Lac qui Parle,Minnesota,74
+1461,Lackawanna,Pennsylvania,79
+1462,Laclede,Missouri,27
+1463,Lafayette,Arkansas,63
+1464,Lafayette,Florida,58
+1465,Lafayette,Louisiana,78
+1466,Lafayette,Mississippi,77
+1467,Lafayette,Missouri,74
+1468,Lafayette,Wisconsin,59
+1469,Lafourche,Louisiana,83
+1470,Lake,California,60
+1471,Lake,Colorado,66
+1472,Lake,Florida,81
+1473,Lake,Illinois,86
+1474,Lake,Indiana,80
+1475,Lake,Michigan,55
+1476,Lake,Minnesota,29
+1477,Lake,Montana,70
+1478,Lake,Ohio,80
+1479,Lake,Oregon,9
+1480,Lake,South Dakota,64
+1481,Lake,Tennessee,53
+1482,Lamar,Alabama,77
+1483,Lamar,Georgia,77
+1484,Lamar,Mississippi,74
+1485,Lamar,Texas,72
+1486,Lamb,Texas,69
+1487,Lamoille,Vermont,72
+1488,Lampasas,Texas,63
+1489,Lancaster,Nebraska,77
+1490,Lancaster,Pennsylvania,78
+1491,Lancaster,South Carolina,86
+1492,Lancaster,Virginia,69
+1493,Lander,Nevada,45
+1494,Lane,Kansas,14
+1495,Lane,Oregon,80
+1496,Langlade,Wisconsin,15
+1497,Lanier,Georgia,65
+1498,Lapeer,Michigan,73
+1499,Laramie,Wyoming,80
+1500,Larimer,Colorado,88
+1501,Larue,Kentucky,70
+1502,Las Animas,Colorado,63
+1503,Lassen,California,13
+1504,Latah,Idaho,65
+1505,Latimer,Oklahoma,70
+1506,Lauderdale,Alabama,77
+1507,Lauderdale,Mississippi,71
+1508,Lauderdale,Tennessee,65
+1509,Laurel,Kentucky,72
+1510,Laurens,Georgia,78
+1511,Laurens,South Carolina,69
+1512,Lavaca,Texas,79
+1513,Lawrence,Alabama,72
+1514,Lawrence,Arkansas,73
+1515,Lawrence,Illinois,59
+1516,Lawrence,Indiana,73
+1517,Lawrence,Kentucky,66
+1518,Lawrence,Mississippi,77
+1519,Lawrence,Missouri,33
+1520,Lawrence,Ohio,72
+1521,Lawrence,Pennsylvania,72
+1522,Lawrence,South Dakota,70
+1523,Lawrence,Tennessee,67
+1524,Le Flore,Oklahoma,69
+1525,Le Sueur,Minnesota,75
+1526,Lea,New Mexico,76
+1527,Leake,Mississippi,76
+1528,Leavenworth,Kansas,79
+1529,Lebanon,Pennsylvania,78
+1530,Lee,Alabama,82
+1531,Lee,Arkansas,65
+1532,Lee,Florida,91
+1533,Lee,Georgia,86
+1534,Lee,Illinois,62
+1535,Lee,Iowa,62
+1536,Lee,Kentucky,8
+1537,Lee,Mississippi,77
+1538,Lee,North Carolina,75
+1539,Lee,South Carolina,79
+1540,Lee,Texas,64
+1541,Lee,Virginia,75
+1542,Leelanau,Michigan,84
+1543,Leflore,Mississippi,84
+1544,Lehigh,Pennsylvania,82
+1545,Lemhi,Idaho,41
+1546,Lenawee,Michigan,72
+1547,Lenoir,North Carolina,72
+1548,Leon,Florida,79
+1549,Leon,Texas,67
+1550,Leslie,Kentucky,61
+1551,Letcher,Kentucky,61
+1552,Levy,Florida,70
+1553,Lewis,Kentucky,68
+1554,Lewis,Missouri,48
+1555,Lewis,New York,68
+1556,Lewis,Tennessee,72
+1557,Lewis,Washington,82
+1558,Lewis,West Virginia,60
+1559,Lewis and Clark,Montana,84
+1560,Lexington,South Carolina,83
+1561,Lexington city,Virginia,63
+1562,Liberty,Florida,56
+1563,Liberty,Georgia,74
+1564,Liberty,Montana,66
+1565,Liberty,Texas,72
+1566,Licking,Ohio,76
+1567,Limestone,Alabama,84
+1568,Limestone,Texas,72
+1569,Lincoln,Arkansas,81
+1570,Lincoln,Colorado,70
+1571,Lincoln,Georgia,77
+1572,Lincoln,Idaho,69
+1573,Lincoln,Kentucky,64
+1574,Lincoln,Louisiana,74
+1575,Lincoln,Maine,82
+1576,Lincoln,Minnesota,70
+1577,Lincoln,Mississippi,76
+1578,Lincoln,Missouri,70
+1579,Lincoln,Montana,71
+1580,Lincoln,Nebraska,79
+1581,Lincoln,Nevada,28
+1582,Lincoln,New Mexico,62
+1583,Lincoln,North Carolina,79
+1584,Lincoln,Oklahoma,71
+1585,Lincoln,Oregon,72
+1586,Lincoln,South Dakota,72
+1587,Lincoln,Tennessee,73
+1588,Lincoln,Washington,82
+1589,Lincoln,West Virginia,52
+1590,Lincoln,Wisconsin,35
+1591,Lincoln,Wyoming,63
+1592,Linn,Iowa,76
+1593,Linn,Kansas,78
+1594,Linn,Missouri,63
+1595,Linn,Oregon,86
+1596,Lipscomb,Texas,38
+1597,Litchfield,Connecticut,85
+1598,Little River,Arkansas,20
+1599,Live Oak,Texas,65
+1600,Livingston,Illinois,75
+1601,Livingston,Kentucky,52
+1602,Livingston,Louisiana,78
+1603,Livingston,Michigan,78
+1604,Livingston,Missouri,67
+1605,Livingston,New York,79
+1606,Llano,Texas,72
+1607,Logan,Arkansas,60
+1608,Logan,Colorado,74
+1609,Logan,Illinois,64
+1610,Logan,Kentucky,74
+1611,Logan,Ohio,74
+1612,Logan,Oklahoma,78
+1613,Logan,West Virginia,72
+1614,Long,Georgia,72
+1615,Lonoke,Arkansas,71
+1616,Lorain,Ohio,83
+1617,Los Alamos,New Mexico,62
+1618,Los Angeles,California,131
+1619,Loudon,Tennessee,75
+1620,Loudoun,Virginia,87
+1621,Louisa,Iowa,63
+1622,Louisa,Virginia,75
+1623,Love,Oklahoma,67
+1624,Lowndes,Alabama,71
+1625,Lowndes,Georgia,86
+1626,Lowndes,Mississippi,76
+1627,Lubbock,Texas,80
+1628,Lucas,Iowa,19
+1629,Lucas,Ohio,82
+1630,Luce,Michigan,63
+1631,Lumpkin,Georgia,76
+1632,Luna,New Mexico,56
+1633,Lunenburg,Virginia,59
+1634,Luzerne,Pennsylvania,82
+1635,Lycoming,Pennsylvania,72
+1636,Lyman,South Dakota,74
+1637,Lynchburg city,Virginia,71
+1638,Lynn,Texas,69
+1639,Lyon,Iowa,63
+1640,Lyon,Kansas,74
+1641,Lyon,Kentucky,80
+1642,Lyon,Minnesota,66
+1643,Lyon,Nevada,72
+1644,Mackinac,Michigan,65
+1645,Macomb,Michigan,84
+1646,Macon,Alabama,68
+1647,Macon,Georgia,73
+1648,Macon,Illinois,69
+1649,Macon,Missouri,67
+1650,Macon,North Carolina,64
+1651,Macon,Tennessee,71
+1652,Macoupin,Illinois,64
+1653,Madera,California,90
+1654,Madison,Alabama,80
+1655,Madison,Arkansas,58
+1656,Madison,Florida,65
+1657,Madison,Georgia,74
+1658,Madison,Idaho,80
+1659,Madison,Illinois,79
+1660,Madison,Indiana,79
+1661,Madison,Iowa,65
+1662,Madison,Kentucky,76
+1663,Madison,Louisiana,71
+1664,Madison,Mississippi,79
+1665,Madison,Missouri,60
+1666,Madison,Montana,78
+1667,Madison,Nebraska,74
+1668,Madison,New York,75
+1669,Madison,North Carolina,41
+1670,Madison,Ohio,74
+1671,Madison,Tennessee,73
+1672,Madison,Texas,57
+1673,Madison,Virginia,72
+1674,Magoffin,Kentucky,20
+1675,Mahaska,Iowa,71
+1676,Mahnomen,Minnesota,70
+1677,Mahoning,Ohio,80
+1678,Major,Oklahoma,63
+1679,Malheur,Oregon,66
+1680,Manassas Park city,Virginia,68
+1681,Manassas city,Virginia,72
+1682,Manatee,Florida,96
+1683,Manistee,Michigan,73
+1684,Manitowoc,Wisconsin,62
+1685,Marathon,Wisconsin,77
+1686,Marengo,Alabama,71
+1687,Maricopa,Arizona,131
+1688,Maries,Missouri,67
+1689,Marin,California,100
+1690,Marinette,Wisconsin,70
+1691,Marion,Alabama,76
+1692,Marion,Arkansas,56
+1693,Marion,Florida,76
+1694,Marion,Georgia,63
+1695,Marion,Illinois,67
+1696,Marion,Indiana,91
+1697,Marion,Iowa,60
+1698,Marion,Kansas,63
+1699,Marion,Kentucky,67
+1700,Marion,Mississippi,74
+1701,Marion,Missouri,48
+1702,Marion,Ohio,77
+1703,Marion,Oregon,89
+1704,Marion,South Carolina,72
+1705,Marion,Tennessee,75
+1706,Marion,Texas,50
+1707,Marion,West Virginia,72
+1708,Mariposa,California,38
+1709,Marlboro,South Carolina,76
+1710,Marquette,Michigan,72
+1711,Marquette,Wisconsin,67
+1712,Marshall,Alabama,72
+1713,Marshall,Illinois,72
+1714,Marshall,Indiana,71
+1715,Marshall,Iowa,70
+1716,Marshall,Kentucky,67
+1717,Marshall,Minnesota,47
+1718,Marshall,Mississippi,77
+1719,Marshall,Oklahoma,59
+1720,Marshall,South Dakota,67
+1721,Marshall,Tennessee,67
+1722,Marshall,West Virginia,76
+1723,Martin,Florida,78
+1724,Martin,Indiana,62
+1725,Martin,Kentucky,73
+1726,Martin,Minnesota,80
+1727,Martin,North Carolina,66
+1728,Martin,Texas,71
+1729,Mason,Illinois,62
+1730,Mason,Kentucky,71
+1731,Mason,Michigan,59
+1732,Mason,Texas,62
+1733,Mason,Washington,80
+1734,Mason,West Virginia,71
+1735,Massac,Illinois,65
+1736,Matagorda,Texas,81
+1737,Matanuska-Susitna Borough,Alaska,74
+1738,Mathews,Virginia,72
+1739,Maui,Hawaii,82
+1740,Maury,Tennessee,77
+1741,Maverick,Texas,72
+1742,Mayes,Oklahoma,73
+1743,McClain,Oklahoma,78
+1744,McCook,South Dakota,84
+1745,McCormick,South Carolina,64
+1746,McCracken,Kentucky,73
+1747,McCreary,Kentucky,72
+1748,McCulloch,Texas,57
+1749,McCurtain,Oklahoma,63
+1750,McDonald,Missouri,72
+1751,McDonough,Illinois,55
+1752,McDowell,North Carolina,72
+1753,McDowell,West Virginia,59
+1754,McDuffie,Georgia,71
+1755,McHenry,Illinois,87
+1756,McHenry,North Dakota,71
+1757,McIntosh,Georgia,67
+1758,McIntosh,North Dakota,71
+1759,McIntosh,Oklahoma,49
+1760,McKean,Pennsylvania,69
+1761,McKenzie,North Dakota,66
+1762,McKinley,New Mexico,77
+1763,McLean,Illinois,77
+1764,McLean,Kentucky,61
+1765,McLean,North Dakota,69
+1766,McLennan,Texas,79
+1767,McLeod,Minnesota,62
+1768,McMinn,Tennessee,75
+1769,McNairy,Tennessee,68
+1770,McPherson,Kansas,70
+1771,McPherson,South Dakota,41
+1772,Meade,Kansas,42
+1773,Meade,Kentucky,64
+1774,Meade,South Dakota,72
+1775,Meagher,Montana,71
+1776,Mecklenburg,North Carolina,85
+1777,Mecklenburg,Virginia,76
+1778,Mecosta,Michigan,71
+1779,Medina,Ohio,82
+1780,Medina,Texas,79
+1781,Meeker,Minnesota,67
+1782,Meigs,Ohio,59
+1783,Meigs,Tennessee,71
+1784,Menard,Illinois,68
+1785,Mendocino,California,79
+1786,Menifee,Kentucky,73
+1787,Menominee,Michigan,56
+1788,Menominee,Wisconsin,65
+1789,Merced,California,73
+1790,Mercer,Illinois,64
+1791,Mercer,Kentucky,71
+1792,Mercer,Missouri,5
+1793,Mercer,New Jersey,83
+1794,Mercer,North Dakota,31
+1795,Mercer,Ohio,72
+1796,Mercer,Pennsylvania,75
+1797,Mercer,West Virginia,79
+1798,Meriwether,Georgia,73
+1799,Merrick,Nebraska,63
+1800,Merrimack,New Hampshire,79
+1801,Mesa,Colorado,83
+1802,Metcalfe,Kentucky,38
+1803,Miami,Indiana,76
+1804,Miami,Kansas,69
+1805,Miami,Ohio,79
+1806,Miami-Dade,Florida,86
+1807,Middlesex,Connecticut,79
+1808,Middlesex,Massachusetts,92
+1809,Middlesex,New Jersey,86
+1810,Middlesex,Virginia,57
+1811,Midland,Michigan,78
+1812,Midland,Texas,76
+1813,Mifflin,Pennsylvania,68
+1814,Milam,Texas,72
+1815,Millard,Utah,63
+1816,Mille Lacs,Minnesota,50
+1817,Miller,Arkansas,66
+1818,Miller,Georgia,77
+1819,Miller,Missouri,51
+1820,Mills,Iowa,62
+1821,Mills,Texas,17
+1822,Milwaukee,Wisconsin,84
+1823,Miner,South Dakota,56
+1824,Mineral,Colorado,68
+1825,Mineral,Nevada,48
+1826,Mineral,West Virginia,63
+1827,Mingo,West Virginia,54
+1828,Minidoka,Idaho,67
+1829,Minnehaha,South Dakota,87
+1830,Missaukee,Michigan,71
+1831,Mississippi,Arkansas,64
+1832,Mississippi,Missouri,44
+1833,Missoula,Montana,83
+1834,Mitchell,Georgia,73
+1835,Mitchell,Iowa,65
+1836,Mitchell,Kansas,75
+1837,Mitchell,North Carolina,64
+1838,Mitchell,Texas,59
+1839,Mobile,Alabama,78
+1840,Modoc,California,2
+1841,Moffat,Colorado,69
+1842,Mohave,Arizona,71
+1843,Moniteau,Missouri,74
+1844,Monmouth,New Jersey,88
+1845,Mono,California,73
+1846,Monona,Iowa,71
+1847,Monongalia,West Virginia,78
+1848,Monroe,Alabama,69
+1849,Monroe,Arkansas,64
+1850,Monroe,Florida,77
+1851,Monroe,Georgia,77
+1852,Monroe,Illinois,74
+1853,Monroe,Indiana,75
+1854,Monroe,Iowa,33
+1855,Monroe,Kentucky,61
+1856,Monroe,Michigan,83
+1857,Monroe,Mississippi,81
+1858,Monroe,Missouri,9
+1859,Monroe,New York,86
+1860,Monroe,Ohio,61
+1861,Monroe,Pennsylvania,88
+1862,Monroe,Tennessee,76
+1863,Monroe,West Virginia,55
+1864,Monroe,Wisconsin,72
+1865,Montague,Texas,70
+1866,Montcalm,Michigan,85
+1867,Monterey,California,80
+1868,Montezuma,Colorado,68
+1869,Montgomery,Alabama,84
+1870,Montgomery,Arkansas,38
+1871,Montgomery,Georgia,55
+1872,Montgomery,Illinois,68
+1873,Montgomery,Indiana,73
+1874,Montgomery,Iowa,70
+1875,Montgomery,Kansas,68
+1876,Montgomery,Kentucky,85
+1877,Montgomery,Maryland,92
+1878,Montgomery,Mississippi,75
+1879,Montgomery,Missouri,72
+1880,Montgomery,New York,82
+1881,Montgomery,North Carolina,73
+1882,Montgomery,Ohio,78
+1883,Montgomery,Pennsylvania,90
+1884,Montgomery,Tennessee,78
+1885,Montgomery,Texas,87
+1886,Montgomery,Virginia,69
+1887,Montmorency,Michigan,53
+1888,Montour,Pennsylvania,76
+1889,Montrose,Colorado,76
+1890,Moody,South Dakota,50
+1891,Moore,North Carolina,79
+1892,Moore,Tennessee,51
+1893,Moore,Texas,67
+1894,Morehouse,Louisiana,72
+1895,Morgan,Alabama,73
+1896,Morgan,Colorado,78
+1897,Morgan,Georgia,74
+1898,Morgan,Illinois,72
+1899,Morgan,Indiana,75
+1900,Morgan,Kentucky,54
+1901,Morgan,Missouri,67
+1902,Morgan,Ohio,60
+1903,Morgan,Tennessee,69
+1904,Morgan,Utah,71
+1905,Morgan,West Virginia,68
+1906,Morrill,Nebraska,51
+1907,Morris,Kansas,78
+1908,Morris,New Jersey,85
+1909,Morris,Texas,74
+1910,Morrison,Minnesota,47
+1911,Morrow,Ohio,65
+1912,Morrow,Oregon,70
+1913,Morton,Kansas,60
+1914,Morton,North Dakota,79
+1915,Motley,Texas,53
+1916,Moultrie,Illinois,64
+1917,Mountrail,North Dakota,69
+1918,Mower,Minnesota,78
+1919,Muhlenberg,Kentucky,73
+1920,Multnomah,Oregon,87
+1921,Murray,Georgia,69
+1922,Murray,Minnesota,60
+1923,Murray,Oklahoma,56
+1924,Muscatine,Iowa,78
+1925,Muscogee,Georgia,77
+1926,Muskegon,Michigan,74
+1927,Muskingum,Ohio,71
+1928,Muskogee,Oklahoma,75
+1929,Musselshell,Montana,66
+1930,Nacogdoches,Texas,71
+1931,Nance,Nebraska,50
+1932,Nantucket,Massachusetts,76
+1933,Napa,California,100
+1934,Nash,North Carolina,75
+1935,Nassau,Florida,87
+1936,Nassau,New York,92
+1937,Natchitoches,Louisiana,74
+1938,Natrona,Wyoming,77
+1939,Navajo,Arizona,80
+1940,Navarro,Texas,70
+1941,Nelson,Kentucky,83
+1942,Nelson,North Dakota,47
+1943,Nelson,Virginia,72
+1944,Nemaha,Kansas,38
+1945,Nemaha,Nebraska,78
+1946,Neosho,Kansas,72
+1947,Neshoba,Mississippi,70
+1948,Ness,Kansas,18
+1949,Nevada,Arkansas,68
+1950,Nevada,California,81
+1951,New Castle,Delaware,86
+1952,New Hanover,North Carolina,79
+1953,New Haven,Connecticut,83
+1954,New Kent,Virginia,69
+1955,New London,Connecticut,77
+1956,New Madrid,Missouri,64
+1957,New York City,New York,96
+1958,Newaygo,Michigan,74
+1959,Newberry,South Carolina,76
+1960,Newport,Rhode Island,72
+1961,Newport News city,Virginia,77
+1962,Newton,Arkansas,67
+1963,Newton,Georgia,82
+1964,Newton,Indiana,69
+1965,Newton,Mississippi,73
+1966,Newton,Missouri,72
+1967,Newton,Texas,65
+1968,Nez Perce,Idaho,72
+1969,Niagara,New York,77
+1970,Nicholas,Kentucky,69
+1971,Nicholas,West Virginia,59
+1972,Nicollet,Minnesota,80
+1973,Niobrara,Wyoming,56
+1974,Noble,Indiana,88
+1975,Noble,Ohio,57
+1976,Noble,Oklahoma,75
+1977,Nobles,Minnesota,56
+1978,Nodaway,Missouri,62
+1979,Nolan,Texas,42
+1980,Nome Census Area,Alaska,51
+1981,Norfolk,Massachusetts,95
+1982,Norfolk city,Virginia,77
+1983,Norman,Minnesota,51
+1984,North Slope Borough,Alaska,8
+1985,Northampton,North Carolina,72
+1986,Northampton,Pennsylvania,85
+1987,Northampton,Virginia,71
+1988,Northumberland,Pennsylvania,70
+1989,Northumberland,Virginia,69
+1990,Northwest Arctic Borough,Alaska,16
+1991,Norton,Kansas,35
+1992,Norton city,Virginia,45
+1993,Nottoway,Virginia,72
+1994,Nowata,Oklahoma,69
+1995,Noxubee,Mississippi,73
+1996,Nuckolls,Nebraska,20
+1997,Nueces,Texas,73
+1998,Nye,Nevada,77
+1999,O'Brien,Iowa,64
+2000,Oakland,Michigan,87
+2001,Obion,Tennessee,68
+2002,Ocean,New Jersey,84
+2003,Oceana,Michigan,71
+2004,Ochiltree,Texas,42
+2005,Oconee,Georgia,77
+2006,Oconee,South Carolina,74
+2007,Oconto,Wisconsin,66
+2008,Ogemaw,Michigan,71
+2009,Oglala Lakota,South Dakota,58
+2010,Ogle,Illinois,66
+2011,Oglethorpe,Georgia,66
+2012,Ohio,Indiana,73
+2013,Ohio,Kentucky,62
+2014,Ohio,West Virginia,72
+2015,Okaloosa,Florida,90
+2016,Okanogan,Washington,72
+2017,Okeechobee,Florida,65
+2018,Okfuskee,Oklahoma,56
+2019,Oklahoma,Oklahoma,84
+2020,Okmulgee,Oklahoma,71
+2021,Oktibbeha,Mississippi,75
+2022,Oldham,Kentucky,75
+2023,Oldham,Texas,76
+2024,Oliver,North Dakota,67
+2025,Olmsted,Minnesota,86
+2026,Oneida,New York,77
+2027,Oneida,Wisconsin,69
+2028,Onondaga,New York,81
+2029,Onslow,North Carolina,85
+2030,Ontario,New York,81
+2031,Orange,California,132
+2032,Orange,Florida,84
+2033,Orange,Indiana,71
+2034,Orange,New York,85
+2035,Orange,North Carolina,77
+2036,Orange,Texas,72
+2037,Orange,Vermont,81
+2038,Orange,Virginia,72
+2039,Orangeburg,South Carolina,77
+2040,Oregon,Missouri,59
+2041,Orleans,Louisiana,87
+2042,Orleans,New York,73
+2043,Orleans,Vermont,73
+2044,Osage,Kansas,70
+2045,Osage,Missouri,67
+2046,Osage,Oklahoma,72
+2047,Osborne,Kansas,63
+2048,Osceola,Florida,84
+2049,Osceola,Iowa,56
+2050,Osceola,Michigan,69
+2051,Oscoda,Michigan,66
+2052,Oswego,New York,74
+2053,Otero,Colorado,72
+2054,Otero,New Mexico,65
+2055,Otoe,Nebraska,64
+2056,Otsego,Michigan,80
+2057,Otsego,New York,74
+2058,Ottawa,Kansas,70
+2059,Ottawa,Michigan,82
+2060,Ottawa,Ohio,69
+2061,Ottawa,Oklahoma,71
+2062,Otter Tail,Minnesota,68
+2063,Ouachita,Arkansas,64
+2064,Ouachita,Louisiana,76
+2065,Ouray,Colorado,62
+2066,Outagamie,Wisconsin,81
+2067,Overton,Tennessee,73
+2068,Owen,Indiana,78
+2069,Owen,Kentucky,38
+2070,Owsley,Kentucky,54
+2071,Owyhee,Idaho,68
+2072,Oxford,Maine,80
+2073,Ozaukee,Wisconsin,78
+2074,Pacific,Washington,56
+2075,Page,Iowa,71
+2076,Page,Virginia,66
+2077,Palm Beach,Florida,85
+2078,Palo Alto,Iowa,28
+2079,Palo Pinto,Texas,64
+2080,Pamlico,North Carolina,68
+2081,Panola,Mississippi,76
+2082,Panola,Texas,64
+2083,Park,Colorado,77
+2084,Park,Montana,70
+2085,Park,Wyoming,80
+2086,Parke,Indiana,63
+2087,Parker,Texas,73
+2088,Parmer,Texas,47
+2089,Pasco,Florida,87
+2090,Pasquotank,North Carolina,77
+2091,Passaic,New Jersey,89
+2092,Patrick,Virginia,45
+2093,Paulding,Georgia,81
+2094,Paulding,Ohio,60
+2095,Pawnee,Kansas,2
+2096,Pawnee,Oklahoma,80
+2097,Payette,Idaho,72
+2098,Payne,Oklahoma,82
+2099,Peach,Georgia,78
+2100,Pearl River,Mississippi,84
+2101,Pecos,Texas,60
+2102,Pembina,North Dakota,41
+2103,Pemiscot,Missouri,73
+2104,Pend Oreille,Washington,64
+2105,Pender,North Carolina,61
+2106,Pendleton,Kentucky,64
+2107,Pendleton,West Virginia,64
+2108,Pennington,Minnesota,45
+2109,Pennington,South Dakota,74
+2110,Penobscot,Maine,79
+2111,Peoria,Illinois,81
+2112,Pepin,Wisconsin,22
+2113,Perquimans,North Carolina,69
+2114,Perry,Alabama,57
+2115,Perry,Arkansas,68
+2116,Perry,Illinois,55
+2117,Perry,Indiana,56
+2118,Perry,Kentucky,62
+2119,Perry,Mississippi,79
+2120,Perry,Missouri,74
+2121,Perry,Ohio,66
+2122,Perry,Pennsylvania,69
+2123,Perry,Tennessee,75
+2124,Pershing,Nevada,8
+2125,Person,North Carolina,70
+2126,Petersburg Borough,Alaska,60
+2127,Petersburg city,Virginia,67
+2128,Pettis,Missouri,70
+2129,Phelps,Missouri,60
+2130,Phelps,Nebraska,61
+2131,Philadelphia,Pennsylvania,87
+2132,Phillips,Arkansas,61
+2133,Phillips,Colorado,67
+2134,Phillips,Kansas,55
+2135,Piatt,Illinois,64
+2136,Pickaway,Ohio,72
+2137,Pickens,Alabama,72
+2138,Pickens,Georgia,77
+2139,Pickens,South Carolina,77
+2140,Pickett,Tennessee,26
+2141,Pierce,Georgia,74
+2142,Pierce,Nebraska,55
+2143,Pierce,North Dakota,77
+2144,Pierce,Washington,91
+2145,Pierce,Wisconsin,88
+2146,Pike,Alabama,72
+2147,Pike,Arkansas,73
+2148,Pike,Georgia,69
+2149,Pike,Illinois,62
+2150,Pike,Indiana,54
+2151,Pike,Kentucky,61
+2152,Pike,Mississippi,77
+2153,Pike,Missouri,67
+2154,Pike,Ohio,69
+2155,Pike,Pennsylvania,85
+2156,Pima,Arizona,88
+2157,Pinal,Arizona,91
+2158,Pine,Minnesota,58
+2159,Pinellas,Florida,87
+2160,Pipestone,Minnesota,61
+2161,Piscataquis,Maine,47
+2162,Pitkin,Colorado,86
+2163,Pitt,North Carolina,77
+2164,Pittsburg,Oklahoma,70
+2165,Pittsylvania,Virginia,71
+2166,Piute,Utah,29
+2167,Placer,California,95
+2168,Plaquemines,Louisiana,78
+2169,Platte,Missouri,72
+2170,Platte,Nebraska,69
+2171,Platte,Wyoming,15
+2172,Pleasants,West Virginia,70
+2173,Plumas,California,66
+2174,Plymouth,Iowa,63
+2175,Plymouth,Massachusetts,82
+2176,Pocahontas,Iowa,39
+2177,Pocahontas,West Virginia,39
+2178,Poinsett,Arkansas,78
+2179,Pointe Coupee,Louisiana,71
+2180,Polk,Arkansas,78
+2181,Polk,Florida,80
+2182,Polk,Georgia,91
+2183,Polk,Iowa,82
+2184,Polk,Minnesota,62
+2185,Polk,Missouri,59
+2186,Polk,Nebraska,57
+2187,Polk,North Carolina,69
+2188,Polk,Oregon,86
+2189,Polk,Tennessee,64
+2190,Polk,Texas,68
+2191,Polk,Wisconsin,56
+2192,Pondera,Montana,51
+2193,Pontotoc,Mississippi,75
+2194,Pontotoc,Oklahoma,74
+2195,Pope,Arkansas,78
+2196,Pope,Illinois,28
+2197,Pope,Minnesota,31
+2198,Poquoson city,Virginia,71
+2199,Portage,Ohio,75
+2200,Portage,Wisconsin,71
+2201,Porter,Indiana,73
+2202,Portsmouth city,Virginia,77
+2203,Posey,Indiana,71
+2204,Pottawatomie,Kansas,73
+2205,Pottawatomie,Oklahoma,72
+2206,Pottawattamie,Iowa,88
+2207,Potter,Pennsylvania,77
+2208,Potter,Texas,76
+2209,Powell,Kentucky,66
+2210,Power,Idaho,59
+2211,Poweshiek,Iowa,75
+2212,Powhatan,Virginia,69
+2213,Prairie,Arkansas,63
+2214,Pratt,Kansas,65
+2215,Preble,Ohio,67
+2216,Prentiss,Mississippi,72
+2217,Presidio,Texas,11
+2218,Presque Isle,Michigan,60
+2219,Preston,West Virginia,73
+2220,Price,Wisconsin,55
+2221,Prince Edward,Virginia,85
+2222,Prince George,Virginia,71
+2223,Prince George's,Maryland,88
+2224,Prince William,Virginia,85
+2225,Prince of Wales-Hyder Census Area,Alaska,55
+2226,Providence,Rhode Island,72
+2227,Prowers,Colorado,57
+2228,Pueblo,Colorado,84
+2229,Pulaski,Arkansas,85
+2230,Pulaski,Georgia,73
+2231,Pulaski,Illinois,57
+2232,Pulaski,Indiana,60
+2233,Pulaski,Kentucky,78
+2234,Pulaski,Missouri,77
+2235,Pulaski,Virginia,63
+2236,Pushmataha,Oklahoma,39
+2237,Putnam,Florida,76
+2238,Putnam,Georgia,65
+2239,Putnam,Illinois,20
+2240,Putnam,Indiana,75
+2241,Putnam,New York,82
+2242,Putnam,Ohio,60
+2243,Putnam,Tennessee,76
+2244,Putnam,West Virginia,76
+2245,Quay,New Mexico,55
+2246,Queen Anne's,Maryland,74
+2247,Quitman,Georgia,63
+2248,Quitman,Mississippi,71
+2249,Rabun,Georgia,66
+2250,Racine,Wisconsin,84
+2251,Radford city,Virginia,71
+2252,Rains,Texas,56
+2253,Raleigh,West Virginia,72
+2254,Ralls,Missouri,72
+2255,Ramsey,Minnesota,91
+2256,Ramsey,North Dakota,77
+2257,Randall,Texas,70
+2258,Randolph,Alabama,70
+2259,Randolph,Arkansas,71
+2260,Randolph,Georgia,77
+2261,Randolph,Illinois,67
+2262,Randolph,Indiana,70
+2263,Randolph,Missouri,72
+2264,Randolph,North Carolina,73
+2265,Randolph,West Virginia,67
+2266,Rankin,Mississippi,77
+2267,Ransom,North Dakota,40
+2268,Rapides,Louisiana,77
+2269,Rappahannock,Virginia,59
+2270,Ravalli,Montana,76
+2271,Ray,Missouri,70
+2272,Reagan,Texas,9
+2273,Red Lake,Minnesota,54
+2274,Red River,Louisiana,68
+2275,Red River,Texas,50
+2276,Red Willow,Nebraska,49
+2277,Redwood,Minnesota,60
+2278,Reeves,Texas,28
+2279,Refugio,Texas,32
+2280,Reno,Kansas,77
+2281,Rensselaer,New York,80
+2282,Renville,Minnesota,83
+2283,Renville,North Dakota,35
+2284,Republic,Kansas,61
+2285,Reynolds,Missouri,67
+2286,Rhea,Tennessee,49
+2287,Rice,Kansas,43
+2288,Rice,Minnesota,79
+2289,Richardson,Nebraska,23
+2290,Richland,Illinois,59
+2291,Richland,Louisiana,74
+2292,Richland,Montana,58
+2293,Richland,North Dakota,57
+2294,Richland,Ohio,78
+2295,Richland,South Carolina,80
+2296,Richland,Wisconsin,70
+2297,Richmond,Georgia,80
+2298,Richmond,North Carolina,59
+2299,Richmond,Virginia,63
+2300,Richmond city,Virginia,79
+2301,Riley,Kansas,77
+2302,Ringgold,Iowa,17
+2303,Rio Arriba,New Mexico,72
+2304,Rio Blanco,Colorado,63
+2305,Rio Grande,Colorado,71
+2306,Ripley,Indiana,75
+2307,Ripley,Missouri,69
+2308,Ritchie,West Virginia,33
+2309,Riverside,California,90
+2310,Roane,Tennessee,76
+2311,Roane,West Virginia,67
+2312,Roanoke,Virginia,72
+2313,Roanoke city,Virginia,70
+2314,Roberts,South Dakota,68
+2315,Roberts,Texas,50
+2316,Robertson,Tennessee,79
+2317,Robertson,Texas,72
+2318,Robeson,North Carolina,75
+2319,Rock,Minnesota,54
+2320,Rock,Wisconsin,77
+2321,Rock Island,Illinois,75
+2322,Rockbridge,Virginia,74
+2323,Rockcastle,Kentucky,66
+2324,Rockdale,Georgia,78
+2325,Rockingham,New Hampshire,90
+2326,Rockingham,North Carolina,66
+2327,Rockingham,Virginia,75
+2328,Rockland,New York,91
+2329,Rockwall,Texas,71
+2330,Rogers,Oklahoma,68
+2331,Rolette,North Dakota,55
+2332,Rooks,Kansas,59
+2333,Roosevelt,Montana,78
+2334,Roosevelt,New Mexico,70
+2335,Roscommon,Michigan,75
+2336,Roseau,Minnesota,59
+2337,Rosebud,Montana,3
+2338,Ross,Ohio,67
+2339,Routt,Colorado,84
+2340,Rowan,Kentucky,55
+2341,Rowan,North Carolina,77
+2342,Runnels,Texas,38
+2343,Rush,Indiana,72
+2344,Rusk,Texas,79
+2345,Rusk,Wisconsin,63
+2346,Russell,Alabama,72
+2347,Russell,Kentucky,66
+2348,Russell,Virginia,60
+2349,Rutherford,North Carolina,67
+2350,Rutherford,Tennessee,84
+2351,Rutland,Vermont,77
+2352,Sabine,Louisiana,68
+2353,Sabine,Texas,57
+2354,Sac,Iowa,35
+2355,Sacramento,California,105
+2356,Sagadahoc,Maine,76
+2357,Saginaw,Michigan,76
+2358,Saguache,Colorado,66
+2359,Salem,New Jersey,75
+2360,Salem city,Virginia,64
+2361,Saline,Arkansas,82
+2362,Saline,Illinois,67
+2363,Saline,Kansas,67
+2364,Saline,Missouri,63
+2365,Saline,Nebraska,52
+2366,Salt Lake,Utah,101
+2367,Saluda,South Carolina,78
+2368,Sampson,North Carolina,80
+2369,San Augustine,Texas,65
+2370,San Benito,California,84
+2371,San Bernardino,California,82
+2372,San Diego,California,116
+2373,San Francisco,California,124
+2374,San Jacinto,Texas,68
+2375,San Joaquin,California,87
+2376,San Juan,Colorado,30
+2377,San Juan,New Mexico,75
+2378,San Juan,Utah,69
+2379,San Juan,Washington,77
+2380,San Luis Obispo,California,83
+2381,San Mateo,California,95
+2382,San Miguel,Colorado,77
+2383,San Miguel,New Mexico,78
+2384,San Patricio,Texas,72
+2385,San Saba,Texas,17
+2386,Sanborn,South Dakota,55
+2387,Sandoval,New Mexico,83
+2388,Sandusky,Ohio,74
+2389,Sangamon,Illinois,83
+2390,Sanilac,Michigan,72
+2391,Sanpete,Utah,48
+2392,Santa Barbara,California,82
+2393,Santa Clara,California,126
+2394,Santa Cruz,Arizona,78
+2395,Santa Cruz,California,90
+2396,Santa Fe,New Mexico,86
+2397,Santa Rosa,Florida,92
+2398,Sarasota,Florida,85
+2399,Saratoga,New York,90
+2400,Sargent,North Dakota,56
+2401,Sarpy,Nebraska,80
+2402,Sauk,Wisconsin,78
+2403,Saunders,Nebraska,73
+2404,Sawyer,Wisconsin,57
+2405,Schenectady,New York,84
+2406,Schley,Georgia,67
+2407,Schoharie,New York,78
+2408,Schoolcraft,Michigan,58
+2409,Schuyler,Illinois,57
+2410,Schuyler,Missouri,20
+2411,Schuyler,New York,69
+2412,Schuylkill,Pennsylvania,75
+2413,Scioto,Ohio,60
+2414,Scotland,Missouri,59
+2415,Scotland,North Carolina,75
+2416,Scott,Arkansas,66
+2417,Scott,Indiana,75
+2418,Scott,Iowa,75
+2419,Scott,Kansas,59
+2420,Scott,Kentucky,78
+2421,Scott,Minnesota,78
+2422,Scott,Mississippi,78
+2423,Scott,Missouri,77
+2424,Scott,Tennessee,76
+2425,Scott,Virginia,56
+2426,Scotts Bluff,Nebraska,68
+2427,Screven,Georgia,66
+2428,Scurry,Texas,57
+2429,Searcy,Arkansas,78
+2430,Sebastian,Arkansas,78
+2431,Sedgwick,Kansas,78
+2432,Seminole,Florida,85
+2433,Seminole,Georgia,73
+2434,Seminole,Oklahoma,68
+2435,Seneca,New York,66
+2436,Seneca,Ohio,72
+2437,Sequatchie,Tennessee,65
+2438,Sequoyah,Oklahoma,71
+2439,Sevier,Arkansas,78
+2440,Sevier,Tennessee,81
+2441,Sevier,Utah,51
+2442,Seward,Kansas,59
+2443,Seward,Nebraska,61
+2444,Shackelford,Texas,29
+2445,Shannon,Missouri,9
+2446,Sharkey,Mississippi,70
+2447,Sharp,Arkansas,64
+2448,Shasta,California,88
+2449,Shawano,Wisconsin,62
+2450,Shawnee,Kansas,72
+2451,Sheboygan,Wisconsin,84
+2452,Shelby,Alabama,82
+2453,Shelby,Illinois,59
+2454,Shelby,Indiana,77
+2455,Shelby,Iowa,69
+2456,Shelby,Kentucky,69
+2457,Shelby,Missouri,72
+2458,Shelby,Ohio,70
+2459,Shelby,Tennessee,89
+2460,Shelby,Texas,70
+2461,Shenandoah,Virginia,72
+2462,Sherburne,Minnesota,74
+2463,Sheridan,Kansas,47
+2464,Sheridan,Wyoming,86
+2465,Sherman,Kansas,49
+2466,Sherman,Nebraska,43
+2467,Sherman,Oregon,61
+2468,Sherman,Texas,50
+2469,Shiawassee,Michigan,71
+2470,Sibley,Minnesota,71
+2471,Sierra,California,14
+2472,Sierra,New Mexico,37
+2473,Silver Bow,Montana,84
+2474,Simpson,Kentucky,73
+2475,Simpson,Mississippi,76
+2476,Sioux,Iowa,75
+2477,Sioux,North Dakota,69
+2478,Siskiyou,California,76
+2479,Sitka City and Borough,Alaska,40
+2480,Skagit,Washington,87
+2481,Skamania,Washington,70
+2482,Slope,North Dakota,63
+2483,Smith,Kansas,51
+2484,Smith,Mississippi,77
+2485,Smith,Tennessee,70
+2486,Smith,Texas,84
+2487,Smyth,Virginia,67
+2488,Snohomish,Washington,136
+2489,Snyder,Pennsylvania,69
+2490,Socorro,New Mexico,86
+2491,Solano,California,102
+2492,Somerset,Maine,68
+2493,Somerset,Maryland,76
+2494,Somerset,New Jersey,81
+2495,Somerset,Pennsylvania,73
+2496,Sonoma,California,100
+2497,Southampton,Virginia,71
+2498,Southeast Fairbanks Census Area,Alaska,63
+2499,Spalding,Georgia,77
+2500,Spartanburg,South Carolina,89
+2501,Spencer,Indiana,64
+2502,Spencer,Kentucky,76
+2503,Spink,South Dakota,64
+2504,Spokane,Washington,102
+2505,Spotsylvania,Virginia,83
+2506,St. Bernard,Louisiana,82
+2507,St. Charles,Louisiana,84
+2508,St. Charles,Missouri,79
+2509,St. Clair,Alabama,80
+2510,St. Clair,Illinois,83
+2511,St. Clair,Michigan,85
+2512,St. Clair,Missouri,57
+2513,St. Croix,Wisconsin,77
+2514,St. Francis,Arkansas,67
+2515,St. Francois,Missouri,74
+2516,St. Helena,Louisiana,66
+2517,St. James,Louisiana,78
+2518,St. John the Baptist,Louisiana,83
+2519,St. Johns,Florida,86
+2520,St. Joseph,Indiana,86
+2521,St. Joseph,Michigan,67
+2522,St. Landry,Louisiana,78
+2523,St. Lawrence,New York,75
+2524,St. Louis,Minnesota,76
+2525,St. Louis,Missouri,90
+2526,St. Louis city,Missouri,79
+2527,St. Lucie,Florida,76
+2528,St. Martin,Louisiana,74
+2529,St. Mary,Louisiana,76
+2530,St. Mary's,Maryland,75
+2531,St. Tammany,Louisiana,84
+2532,Stafford,Kansas,68
+2533,Stafford,Virginia,81
+2534,Stanislaus,California,86
+2535,Stanley,South Dakota,42
+2536,Stanly,North Carolina,77
+2537,Stanton,Kansas,54
+2538,Stanton,Nebraska,60
+2539,Stark,Illinois,58
+2540,Stark,North Dakota,72
+2541,Stark,Ohio,86
+2542,Starke,Indiana,73
+2543,Starr,Texas,70
+2544,Staunton city,Virginia,62
+2545,Ste. Genevieve,Missouri,66
+2546,Stearns,Minnesota,85
+2547,Steele,Minnesota,76
+2548,Steele,North Dakota,19
+2549,Stephens,Georgia,73
+2550,Stephens,Oklahoma,72
+2551,Stephens,Texas,56
+2552,Stephenson,Illinois,75
+2553,Steuben,Indiana,68
+2554,Steuben,New York,76
+2555,Stevens,Kansas,68
+2556,Stevens,Minnesota,8
+2557,Stevens,Washington,77
+2558,Stewart,Georgia,66
+2559,Stewart,Tennessee,62
+2560,Stillwater,Montana,57
+2561,Stoddard,Missouri,71
+2562,Stokes,North Carolina,64
+2563,Stone,Arkansas,73
+2564,Stone,Mississippi,61
+2565,Stone,Missouri,67
+2566,Storey,Nevada,18
+2567,Story,Iowa,76
+2568,Strafford,New Hampshire,76
+2569,Stutsman,North Dakota,58
+2570,Sublette,Wyoming,69
+2571,Suffolk,Massachusetts,125
+2572,Suffolk,New York,89
+2573,Suffolk city,Virginia,76
+2574,Sullivan,Indiana,73
+2575,Sullivan,Missouri,33
+2576,Sullivan,New Hampshire,75
+2577,Sullivan,New York,80
+2578,Sullivan,Pennsylvania,62
+2579,Sullivan,Tennessee,87
+2580,Sully,South Dakota,54
+2581,Summers,West Virginia,55
+2582,Summit,Colorado,84
+2583,Summit,Ohio,83
+2584,Summit,Utah,83
+2585,Sumner,Kansas,71
+2586,Sumner,Tennessee,79
+2587,Sumter,Alabama,67
+2588,Sumter,Florida,79
+2589,Sumter,Georgia,77
+2590,Sumter,South Carolina,77
+2591,Sunflower,Mississippi,75
+2592,Surry,North Carolina,70
+2593,Surry,Virginia,66
+2594,Susquehanna,Pennsylvania,71
+2595,Sussex,Delaware,80
+2596,Sussex,New Jersey,78
+2597,Sussex,Virginia,65
+2598,Sutter,California,72
+2599,Suwannee,Florida,70
+2600,Swain,North Carolina,37
+2601,Sweetwater,Wyoming,73
+2602,Swift,Minnesota,59
+2603,Swisher,Texas,68
+2604,Switzerland,Indiana,69
+2605,Talbot,Georgia,67
+2606,Talbot,Maryland,81
+2607,Taliaferro,Georgia,33
+2608,Talladega,Alabama,79
+2609,Tallahatchie,Mississippi,74
+2610,Tallapoosa,Alabama,74
+2611,Tama,Iowa,75
+2612,Taney,Missouri,74
+2613,Tangipahoa,Louisiana,77
+2614,Taos,New Mexico,80
+2615,Tarrant,Texas,87
+2616,Tate,Mississippi,75
+2617,Tattnall,Georgia,75
+2618,Taylor,Florida,59
+2619,Taylor,Georgia,72
+2620,Taylor,Iowa,69
+2621,Taylor,Kentucky,68
+2622,Taylor,Texas,70
+2623,Taylor,West Virginia,60
+2624,Taylor,Wisconsin,15
+2625,Tazewell,Illinois,71
+2626,Tazewell,Virginia,68
+2627,Tehama,California,63
+2628,Telfair,Georgia,64
+2629,Teller,Colorado,74
+2630,Tensas,Louisiana,55
+2631,Terrebonne,Louisiana,84
+2632,Terrell,Georgia,77
+2633,Terry,Texas,72
+2634,Teton,Idaho,83
+2635,Teton,Wyoming,79
+2636,Texas,Missouri,7
+2637,Texas,Oklahoma,68
+2638,Thayer,Nebraska,7
+2639,Thomas,Georgia,72
+2640,Thomas,Nebraska,30
+2641,Thurston,Nebraska,41
+2642,Thurston,Washington,86
+2643,Tift,Georgia,77
+2644,Tillamook,Oregon,71
+2645,Tillman,Oklahoma,62
+2646,Tioga,New York,83
+2647,Tioga,Pennsylvania,69
+2648,Tippah,Mississippi,77
+2649,Tippecanoe,Indiana,78
+2650,Tipton,Indiana,75
+2651,Tipton,Tennessee,77
+2652,Tishomingo,Mississippi,66
+2653,Titus,Texas,63
+2654,Todd,Kentucky,59
+2655,Todd,Minnesota,54
+2656,Todd,South Dakota,70
+2657,Tolland,Connecticut,78
+2658,Tom Green,Texas,72
+2659,Tompkins,New York,83
+2660,Tooele,Utah,81
+2661,Toole,Montana,71
+2662,Toombs,Georgia,71
+2663,Torrance,New Mexico,67
+2664,Towns,Georgia,63
+2665,Traill,North Dakota,29
+2666,Transylvania,North Carolina,73
+2667,Traverse,Minnesota,66
+2668,Travis,Texas,84
+2669,Trego,Kansas,14
+2670,Trempealeau,Wisconsin,64
+2671,Treutlen,Georgia,60
+2672,Trigg,Kentucky,54
+2673,Trimble,Kentucky,56
+2674,Trinity,California,26
+2675,Trinity,Texas,62
+2676,Tripp,South Dakota,22
+2677,Troup,Georgia,81
+2678,Trousdale,Tennessee,69
+2679,Trumbull,Ohio,85
+2680,Tucker,West Virginia,78
+2681,Tulare,California,85
+2682,Tulsa,Oklahoma,91
+2683,Tunica,Mississippi,76
+2684,Tuolumne,California,68
+2685,Turner,Georgia,77
+2686,Turner,South Dakota,68
+2687,Tuscaloosa,Alabama,84
+2688,Tuscarawas,Ohio,83
+2689,Tuscola,Michigan,76
+2690,Twiggs,Georgia,75
+2691,Twin Falls,Idaho,79
+2692,Tyler,Texas,62
+2693,Tyler,West Virginia,59
+2694,Tyrrell,North Carolina,52
+2695,Uinta,Wyoming,64
+2696,Uintah,Utah,70
+2697,Ulster,New York,89
+2698,Umatilla,Oregon,86
+2699,Unicoi,Tennessee,71
+2700,Union,Arkansas,73
+2701,Union,Florida,66
+2702,Union,Georgia,65
+2703,Union,Illinois,51
+2704,Union,Indiana,62
+2705,Union,Iowa,56
+2706,Union,Kentucky,71
+2707,Union,Louisiana,72
+2708,Union,Mississippi,76
+2709,Union,New Jersey,88
+2710,Union,New Mexico,41
+2711,Union,North Carolina,75
+2712,Union,Ohio,77
+2713,Union,Oregon,77
+2714,Union,Pennsylvania,67
+2715,Union,South Carolina,72
+2716,Union,South Dakota,70
+2717,Union,Tennessee,69
+2718,Unknown,Alabama,1
+2719,Unknown,Alaska,18
+2720,Unknown,Arizona,12
+2721,Unknown,Arkansas,77
+2722,Unknown,California,17
+2723,Unknown,Colorado,64
+2724,Unknown,Connecticut,67
+2725,Unknown,Delaware,55
+2726,Unknown,Florida,72
+2727,Unknown,Georgia,76
+2728,Unknown,Guam,82
+2729,Unknown,Hawaii,25
+2730,Unknown,Idaho,4
+2731,Unknown,Illinois,49
+2732,Unknown,Indiana,2
+2733,Unknown,Iowa,39
+2734,Unknown,Kansas,8
+2735,Unknown,Kentucky,42
+2736,Unknown,Louisiana,79
+2737,Unknown,Maine,70
+2738,Unknown,Maryland,51
+2739,Unknown,Massachusetts,81
+2740,Unknown,Michigan,71
+2741,Unknown,Minnesota,70
+2742,Unknown,Mississippi,4
+2743,Unknown,Missouri,36
+2744,Unknown,Nebraska,40
+2745,Unknown,Nevada,57
+2746,Unknown,New Hampshire,58
+2747,Unknown,New Jersey,85
+2748,Unknown,New Mexico,12
+2749,Unknown,New York,7
+2750,Unknown,North Dakota,13
+2751,Unknown,Northern Mariana Islands,69
+2752,Unknown,Ohio,1
+2753,Unknown,Oregon,2
+2754,Unknown,Pennsylvania,3
+2755,Unknown,Puerto Rico,84
+2756,Unknown,Rhode Island,96
+2757,Unknown,South Dakota,3
+2758,Unknown,Tennessee,50
+2759,Unknown,Utah,68
+2760,Unknown,Vermont,74
+2761,Unknown,Virgin Islands,83
+2762,Unknown,Virginia,55
+2763,Unknown,Washington,14
+2764,Upshur,Texas,77
+2765,Upshur,West Virginia,71
+2766,Upson,Georgia,70
+2767,Utah,Utah,82
+2768,Uvalde,Texas,70
+2769,Val Verde,Texas,71
+2770,Valdez-Cordova Census Area,Alaska,29
+2771,Valencia,New Mexico,70
+2772,Valley,Idaho,75
+2773,Valley,Nebraska,39
+2774,Van Buren,Arkansas,78
+2775,Van Buren,Iowa,67
+2776,Van Buren,Michigan,72
+2777,Van Buren,Tennessee,53
+2778,Van Wert,Ohio,69
+2779,Van Zandt,Texas,78
+2780,Vance,North Carolina,74
+2781,Vanderburgh,Indiana,77
+2782,Venango,Pennsylvania,68
+2783,Ventura,California,87
+2784,Vermilion,Illinois,65
+2785,Vermilion,Louisiana,71
+2786,Vermillion,Indiana,69
+2787,Vernon,Louisiana,73
+2788,Vernon,Missouri,57
+2789,Vernon,Wisconsin,42
+2790,Victoria,Texas,73
+2791,Vigo,Indiana,77
+2792,Vilas,Wisconsin,71
+2793,Vinton,Ohio,38
+2794,Virginia Beach city,Virginia,88
+2795,Volusia,Florida,90
+2796,Wabash,Illinois,60
+2797,Wabash,Indiana,69
+2798,Wabasha,Minnesota,76
+2799,Wabaunsee,Kansas,61
+2800,Wadena,Minnesota,38
+2801,Wagoner,Oklahoma,73
+2802,Wahkiakum,Washington,62
+2803,Wake,North Carolina,94
+2804,Wakulla,Florida,68
+2805,Waldo,Maine,73
+2806,Walker,Alabama,78
+2807,Walker,Georgia,66
+2808,Walker,Texas,72
+2809,Walla Walla,Washington,95
+2810,Waller,Texas,68
+2811,Wallowa,Oregon,66
+2812,Walsh,North Dakota,74
+2813,Walthall,Mississippi,78
+2814,Walton,Florida,79
+2815,Walton,Georgia,69
+2816,Walworth,South Dakota,54
+2817,Walworth,Wisconsin,78
+2818,Wapello,Iowa,74
+2819,Ward,North Dakota,86
+2820,Ward,Texas,13
+2821,Ware,Georgia,72
+2822,Warren,Georgia,67
+2823,Warren,Illinois,55
+2824,Warren,Indiana,71
+2825,Warren,Iowa,73
+2826,Warren,Kentucky,79
+2827,Warren,Mississippi,68
+2828,Warren,Missouri,69
+2829,Warren,New Jersey,80
+2830,Warren,New York,79
+2831,Warren,North Carolina,62
+2832,Warren,Ohio,77
+2833,Warren,Pennsylvania,72
+2834,Warren,Tennessee,67
+2835,Warren,Virginia,71
+2836,Warrick,Indiana,73
+2837,Wasatch,Utah,81
+2838,Wasco,Oregon,71
+2839,Waseca,Minnesota,82
+2840,Washakie,Wyoming,70
+2841,Washburn,Wisconsin,52
+2842,Washington,Alabama,77
+2843,Washington,Arkansas,79
+2844,Washington,Colorado,71
+2845,Washington,Florida,71
+2846,Washington,Georgia,74
+2847,Washington,Idaho,64
+2848,Washington,Illinois,79
+2849,Washington,Indiana,76
+2850,Washington,Iowa,79
+2851,Washington,Kentucky,69
+2852,Washington,Louisiana,80
+2853,Washington,Maine,63
+2854,Washington,Maryland,76
+2855,Washington,Minnesota,82
+2856,Washington,Mississippi,76
+2857,Washington,Missouri,58
+2858,Washington,Nebraska,74
+2859,Washington,New York,79
+2860,Washington,North Carolina,68
+2861,Washington,Ohio,74
+2862,Washington,Oklahoma,78
+2863,Washington,Oregon,98
+2864,Washington,Pennsylvania,84
+2865,Washington,Rhode Island,72
+2866,Washington,Tennessee,78
+2867,Washington,Texas,69
+2868,Washington,Utah,91
+2869,Washington,Vermont,83
+2870,Washington,Virginia,71
+2871,Washington,Wisconsin,79
+2872,Washita,Oklahoma,22
+2873,Washoe,Nevada,92
+2874,Washtenaw,Michigan,85
+2875,Watauga,North Carolina,82
+2876,Watonwan,Minnesota,67
+2877,Waukesha,Wisconsin,86
+2878,Waupaca,Wisconsin,70
+2879,Waushara,Wisconsin,60
+2880,Wayne,Georgia,62
+2881,Wayne,Illinois,49
+2882,Wayne,Indiana,78
+2883,Wayne,Iowa,35
+2884,Wayne,Kentucky,72
+2885,Wayne,Michigan,87
+2886,Wayne,Mississippi,64
+2887,Wayne,Nebraska,55
+2888,Wayne,New York,78
+2889,Wayne,North Carolina,84
+2890,Wayne,Ohio,72
+2891,Wayne,Pennsylvania,91
+2892,Wayne,Tennessee,67
+2893,Wayne,West Virginia,57
+2894,Waynesboro city,Virginia,66
+2895,Weakley,Tennessee,69
+2896,Webb,Texas,79
+2897,Weber,Utah,87
+2898,Webster,Georgia,66
+2899,Webster,Iowa,70
+2900,Webster,Kentucky,71
+2901,Webster,Louisiana,78
+2902,Webster,Mississippi,75
+2903,Webster,Missouri,67
+2904,Webster,Nebraska,56
+2905,Weld,Colorado,84
+2906,Wells,Indiana,83
+2907,Wells,North Dakota,44
+2908,West Baton Rouge,Louisiana,78
+2909,West Carroll,Louisiana,60
+2910,West Feliciana,Louisiana,70
+2911,Westchester,New York,93
+2912,Westmoreland,Pennsylvania,78
+2913,Westmoreland,Virginia,63
+2914,Weston,Wyoming,9
+2915,Wetzel,West Virginia,68
+2916,Wexford,Michigan,76
+2917,Wharton,Texas,72
+2918,Whatcom,Washington,87
+2919,Wheatland,Montana,42
+2920,Wheeler,Georgia,69
+2921,Wheeler,Texas,44
+2922,White,Arkansas,73
+2923,White,Georgia,72
+2924,White,Illinois,46
+2925,White,Indiana,69
+2926,White,Tennessee,72
+2927,White Pine,Nevada,57
+2928,Whiteside,Illinois,82
+2929,Whitfield,Georgia,80
+2930,Whitley,Indiana,70
+2931,Whitley,Kentucky,58
+2932,Whitman,Washington,75
+2933,Wichita,Texas,79
+2934,Wicomico,Maryland,78
+2935,Wilbarger,Texas,52
+2936,Wilcox,Alabama,72
+2937,Wilcox,Georgia,66
+2938,Wilkes,Georgia,72
+2939,Wilkes,North Carolina,66
+2940,Wilkin,Minnesota,71
+2941,Wilkinson,Georgia,66
+2942,Wilkinson,Mississippi,78
+2943,Will,Illinois,81
+2944,Willacy,Texas,70
+2945,Williams,North Dakota,66
+2946,Williams,Ohio,64
+2947,Williamsburg,South Carolina,72
+2948,Williamsburg city,Virginia,80
+2949,Williamson,Illinois,79
+2950,Williamson,Tennessee,92
+2951,Williamson,Texas,79
+2952,Wilson,Kansas,49
+2953,Wilson,North Carolina,82
+2954,Wilson,Tennessee,78
+2955,Wilson,Texas,72
+2956,Winchester city,Virginia,68
+2957,Windham,Connecticut,78
+2958,Windham,Vermont,76
+2959,Windsor,Vermont,83
+2960,Winkler,Texas,56
+2961,Winn,Louisiana,72
+2962,Winnebago,Illinois,82
+2963,Winnebago,Iowa,60
+2964,Winnebago,Wisconsin,83
+2965,Winneshiek,Iowa,79
+2966,Winona,Minnesota,72
+2967,Winston,Alabama,70
+2968,Winston,Mississippi,78
+2969,Wirt,West Virginia,68
+2970,Wise,Texas,67
+2971,Wise,Virginia,63
+2972,Wolfe,Kentucky,17
+2973,Wood,Ohio,75
+2974,Wood,Texas,65
+2975,Wood,West Virginia,73
+2976,Wood,Wisconsin,81
+2977,Woodbury,Iowa,75
+2978,Woodford,Illinois,83
+2979,Woodford,Kentucky,70
+2980,Woodruff,Arkansas,73
+2981,Woods,Oklahoma,49
+2982,Woodson,Kansas,73
+2983,Woodward,Oklahoma,64
+2984,Worcester,Maryland,77
+2985,Worcester,Massachusetts,89
+2986,Worth,Georgia,77
+2987,Worth,Iowa,58
+2988,Worth,Missouri,60
+2989,Wright,Iowa,70
+2990,Wright,Minnesota,84
+2991,Wright,Missouri,70
+2992,Wyandot,Ohio,71
+2993,Wyandotte,Kansas,85
+2994,Wyoming,New York,80
+2995,Wyoming,Pennsylvania,62
+2996,Wyoming,West Virginia,59
+2997,Wythe,Virginia,68
+2998,Yadkin,North Carolina,68
+2999,Yakima,Washington,85
+3000,Yalobusha,Mississippi,71
+3001,Yamhill,Oregon,82
+3002,Yancey,North Carolina,33
+3003,Yankton,South Dakota,69
+3004,Yates,New York,64
+3005,Yavapai,Arizona,78
+3006,Yazoo,Mississippi,78
+3007,Yell,Arkansas,61
+3008,Yellow Medicine,Minnesota,65
+3009,Yellowstone,Montana,84
+3010,Yoakum,Texas,48
+3011,Yolo,California,91
+3012,York,Maine,80
+3013,York,Nebraska,67
+3014,York,Pennsylvania,79
+3015,York,South Carolina,80
+3016,York,Virginia,81
+3017,Young,Texas,70
+3018,Yuba,California,76
+3019,Yukon-Koyukuk Census Area,Alaska,64
+3020,Yuma,Arizona,77
+3021,Yuma,Colorado,79
+3022,Zapata,Texas,60
+3023,Zavala,Texas,49
+3024,Ziebach,South Dakota,30
