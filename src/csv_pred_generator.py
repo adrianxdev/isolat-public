@@ -100,5 +100,5 @@ df['value'] = df[0]
 df_final = df[['date','value']].copy()
 df_final.to_csv("mass_middle_auto.csv", index=False)
 
-copyfile("mass_middle_auto.csv", r"C:\Users\adrian\IDSS-hack\mass_middlesex_auto.csv")
+#copyfile("mass_middle_auto.csv", r"C:\Users\adrian\IDSS-hack\mass_middlesex_auto.csv")
 
